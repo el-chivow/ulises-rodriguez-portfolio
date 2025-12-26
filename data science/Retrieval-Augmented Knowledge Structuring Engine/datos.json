@@ -92,7 +92,7 @@
   {
     "document_id": "negocio_33",
     "tipo": "negocio",
-    "nombre": "PIZZA CENTRAL",
+    "nombre": "02-PIZZA CENTRAL",
     "descripcion_corta": "Pizzas, papas y hamburguesas",
     "descripcion_detallada": "Negocio de comida que ofrece pizzas, papas y hamburguesas.",
     "direccion": "Calle 96, Ciudad 50",
@@ -137,7 +137,7 @@
   {
     "document_id": "negocio_34",
     "tipo": "negocio",
-    "nombre": "02-DESAYUNOS GAHORY",
+    "nombre": "DESAYUNOS GAHORY",
     "descripcion_corta": "Desayunos en general",
     "descripcion_detallada": "Negocio de comida que ofrece desayunos en general.",
     "direccion": "Calle 65, Ciudad 43",
@@ -357,7 +357,7 @@
   {
     "document_id": "negocio_35",
     "tipo": "negocio",
-    "nombre": "EXPRESSO CENTRAL",
+    "nombre": "02-EXPRESSO CENTRAL",
     "descripcion_corta": "Cafetería, crepas y más",
     "descripcion_detallada": "Negocio de comida que ofrece cafetería, crepas y más.",
     "direccion": "Calle 15, Ciudad 33",
@@ -507,7 +507,7 @@
   {
     "document_id": "negocio_37",
     "tipo": "negocio",
-    "nombre": "01-MICHI-LAQUIL",
+    "nombre": "02-MICHI-LAQUIL",
     "descripcion_corta": "Chilaquiles y desayunos",
     "descripcion_detallada": "Negocio de comida que ofrece CHILAQUILES, DESAYUNOS Y VARIEDADES.",
     "direccion": "Calle 55, Ciudad 12",
@@ -667,7 +667,7 @@
   {
     "document_id": "negocio_38",
     "tipo": "negocio",
-    "nombre": "02-NONIS FUENTE DE SODAS",
+    "nombre": "01-NONIS FUENTE DE SODAS",
     "descripcion_corta": "Comida variada, heladería y pastes",
     "descripcion_detallada": "Negocio de comida que ofrece comida variada, heladería y pastes.",
     "direccion": "Calle 88, Ciudad 32",
@@ -966,6 +966,16 @@
         "nombre": "SIX CARTA BLANCA",
         "descripcion": "CARTA BLANCA 355ML",
         "precio": "85.0"
+      },
+      {
+        "nombre": "SIX CORONA EXTRA",
+        "descripcion": "CERVEZA CORONA SIX 355ml",
+        "precio": "118.0"
+      },
+      {
+        "nombre": "BACARDÍ BLANCO",
+        "descripcion": "700 ml",
+        "precio": "189.0"
       }
     ]
   },
@@ -1517,7 +1527,7 @@
   {
     "document_id": "negocio_47",
     "tipo": "negocio",
-    "nombre": "02-COMEDOR \"DOÑA CARMEN\"",
+    "nombre": "COMEDOR \"DOÑA CARMEN\"",
     "descripcion_corta": "RICA COMIDA CORRIDA",
     "descripcion_detallada": "Negocio de comida que ofrece rica comida corrida.",
     "direccion": "Calle 24, Ciudad 43",
@@ -1707,7 +1717,7 @@
   {
     "document_id": "negocio_50",
     "tipo": "negocio",
-    "nombre": "ANTOJITOS FUENTES",
+    "nombre": "02-ANTOJITOS FUENTES",
     "descripcion_corta": "ENCHILADAS, SOPES, ENTRE OTROS",
     "descripcion_detallada": "Negocio de comida que ofrece enchiladas, sopes, entre otros.",
     "direccion": "Calle 66, Ciudad 31",
@@ -1897,7 +1907,7 @@
   {
     "document_id": "negocio_57",
     "tipo": "negocio",
-    "nombre": "LA CASA ROOSTER",
+    "nombre": "02-LA CASA ROOSTER",
     "descripcion_corta": "ALITAS, COSTILLAS, DEDOS DE QUESO Y MÁS",
     "descripcion_detallada": "Negocio de comida que ofrece alitas, costillas, dedos de queso y más.",
     "direccion": "Calle 12, Ciudad 37",
@@ -1997,7 +2007,7 @@
   {
     "document_id": "negocio_59",
     "tipo": "negocio",
-    "nombre": "MERAKI CAFÉ",
+    "nombre": "02-MERAKI CAFÉ",
     "descripcion_corta": "Comida variada y cafetería",
     "descripcion_detallada": "Negocio de comida que ofrece comida variada y cafetería.",
     "direccion": "Calle 33, Ciudad 49",
@@ -2820,7 +2830,7 @@
       {
         "nombre": "MANDADITO EXPRESS",
         "descripcion": "Descríbenos tu mandadito y sus dimensiones. Indica qué necesitamos recoger o comprar.\n\nEl repartidor llevará tu ticket de compra y se comunicará contigo al recibir la solicitud por si falta alguna instrucción.\n\nLos mandaditos operan dentro de un rango máximo de 9 km a la redonda. Límites: Bomithza, Refugio, Atitalaquia, Real Castilla, Senderos, San José Acoculco.\nSi la distancia excede este límite, Administración se pondrá en contacto contigo y se realizará el reembolso correspondiente.\n\nPruébalo y verás lo útil que es DOBLEU.",
-        "precio": "1.0"
+        "precio": "10.0"
       }
     ]
   },

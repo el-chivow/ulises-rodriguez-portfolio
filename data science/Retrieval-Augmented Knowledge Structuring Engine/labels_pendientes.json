@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-23T19:22:57.857970Z",
+  "generated_at": "2025-12-26T22:25:51.285610Z",
   "min_businesses_for_tag": 2,
   "min_businesses_for_label": 5,
   "auto_promote_label": true,
@@ -13,8 +13,8 @@
       "already_label": true,
       "examples_businesses": [
         "tacos los licenciados",
-        "02 desayunos gahory",
-        "01 michi laquil"
+        "desayunos gahory",
+        "02 michi laquil"
       ]
     },
     {
@@ -58,9 +58,9 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "02 desayunos gahory",
+        "desayunos gahory",
         "hamburguesas el guero",
-        "01 michi laquil"
+        "02 michi laquil"
       ]
     },
     {
@@ -83,9 +83,9 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "pizza central",
-        "02 desayunos gahory",
-        "02 nonis fuente de sodas"
+        "02 pizza central",
+        "desayunos gahory",
+        "01 nonis fuente de sodas"
       ]
     },
     {
@@ -97,7 +97,7 @@
       "already_label": true,
       "examples_businesses": [
         "hamburguesas el guero",
-        "antojitos fuentes",
+        "02 antojitos fuentes",
         "antojo"
       ]
     },
@@ -109,9 +109,9 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "02 desayunos gahory",
-        "01 michi laquil",
-        "02 nonis fuente de sodas"
+        "desayunos gahory",
+        "02 michi laquil",
+        "01 nonis fuente de sodas"
       ]
     },
     {
@@ -123,8 +123,8 @@
       "already_label": true,
       "examples_businesses": [
         "tacos los licenciados",
-        "02 desayunos gahory",
-        "02 nonis fuente de sodas"
+        "desayunos gahory",
+        "01 nonis fuente de sodas"
       ]
     },
     {
@@ -146,7 +146,7 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "expresso central",
+        "02 expresso central",
         "02 la chilaqueria",
         "carnitas el amiguito"
       ]
@@ -209,8 +209,8 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "expresso central",
-        "la casa rooster",
+        "02 expresso central",
+        "02 la casa rooster",
         "antojo"
       ]
     },
@@ -235,7 +235,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "antojitos fuentes"
+        "02 antojitos fuentes"
       ]
     },
     {
@@ -255,7 +255,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "02 comedor dona carmen",
+        "comedor dona carmen",
         "02 la chilaqueria",
         "fritalitas"
       ]
@@ -268,7 +268,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "pizza central",
+        "02 pizza central",
         "hamburguesas el guero",
         "house of jochos"
       ]
@@ -325,7 +325,7 @@
       "already_label": false,
       "examples_businesses": [
         "02 eii mar atotonilco",
-        "la casa rooster",
+        "02 la casa rooster",
         "fritalitas"
       ]
     },
@@ -338,8 +338,8 @@
       "already_label": false,
       "examples_businesses": [
         "02 vinateria la jalisco",
-        "02 comedor dona carmen",
-        "antojitos fuentes"
+        "comedor dona carmen",
+        "02 antojitos fuentes"
       ]
     },
     {
@@ -352,7 +352,7 @@
       "examples_businesses": [
         "hamburguesas el guero",
         "jacalito la pulcata",
-        "la casa rooster"
+        "02 la casa rooster"
       ]
     },
     {
@@ -387,9 +387,9 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "01 michi laquil",
+        "02 michi laquil",
         "02 la chilaqueria",
-        "meraki cafe"
+        "02 meraki cafe"
       ]
     },
     {
@@ -448,7 +448,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -459,7 +459,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "pizza central"
+        "02 pizza central"
       ]
     },
     {
@@ -494,7 +494,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "02 comedor dona carmen",
+        "comedor dona carmen",
         "02 la chilaqueria"
       ]
     },
@@ -506,8 +506,8 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "02 desayunos gahory",
-        "02 nonis fuente de sodas",
+        "desayunos gahory",
+        "01 nonis fuente de sodas",
         "la barranca"
       ]
     },
@@ -519,9 +519,9 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "pizza central",
-        "01 michi laquil",
-        "02 nonis fuente de sodas"
+        "02 pizza central",
+        "02 michi laquil",
+        "01 nonis fuente de sodas"
       ]
     },
     {
@@ -532,7 +532,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "02 desayunos gahory",
+        "desayunos gahory",
         "02 la chilaqueria",
         "02 pescados y mariscos los arcos"
       ]
@@ -557,8 +557,8 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "02 desayunos gahory",
-        "02 comedor dona carmen"
+        "desayunos gahory",
+        "comedor dona carmen"
       ]
     },
     {
@@ -569,7 +569,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "la casa rooster"
+        "02 la casa rooster"
       ]
     },
     {
@@ -582,7 +582,7 @@
       "examples_businesses": [
         "la barranca",
         "jacalito la pulcata",
-        "antojitos fuentes"
+        "02 antojitos fuentes"
       ]
     },
     {
@@ -623,9 +623,18 @@
       "already_label": false,
       "examples_businesses": [
         "tacos los licenciados",
-        "pizza central",
+        "02 pizza central",
         "hamburguesas el guero"
       ]
+    },
+    {
+      "term": "blanco",
+      "term_norm": "blanco",
+      "total_mentions": 14,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
     },
     {
       "term": "sandwich",
@@ -654,7 +663,7 @@
       "already_label": false,
       "examples_businesses": [
         "hamburguesas el guero",
-        "01 michi laquil",
+        "02 michi laquil",
         "02 super tortas"
       ]
     },
@@ -684,7 +693,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "antojitos fuentes"
+        "02 antojitos fuentes"
       ]
     },
     {
@@ -706,7 +715,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "antojitos fuentes"
+        "02 antojitos fuentes"
       ]
     },
     {
@@ -718,7 +727,7 @@
       "already_label": false,
       "examples_businesses": [
         "hamburguesas el guero",
-        "02 nonis fuente de sodas",
+        "01 nonis fuente de sodas",
         "la barranca"
       ]
     },
@@ -739,7 +748,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -751,7 +760,7 @@
       "already_label": false,
       "examples_businesses": [
         "02 eii mar atotonilco",
-        "la casa rooster"
+        "02 la casa rooster"
       ]
     },
     {
@@ -824,15 +833,6 @@
       ]
     },
     {
-      "term": "blanco",
-      "term_norm": "blanco",
-      "total_mentions": 13,
-      "businesses": 4,
-      "kind": "tag",
-      "already_label": false,
-      "examples_businesses": []
-    },
-    {
       "term": "dedos",
       "term_norm": "dedos",
       "total_mentions": 13,
@@ -840,7 +840,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "la casa rooster"
+        "02 la casa rooster"
       ]
     },
     {
@@ -852,7 +852,7 @@
       "already_label": false,
       "examples_businesses": [
         "hamburguesas el guero",
-        "meraki cafe",
+        "02 meraki cafe",
         "house of jochos"
       ]
     },
@@ -891,7 +891,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "antojitos fuentes"
+        "02 antojitos fuentes"
       ]
     },
     {
@@ -920,7 +920,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central",
+        "02 expresso central",
         "antojo"
       ]
     },
@@ -961,7 +961,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -990,7 +990,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "01 michi laquil",
+        "02 michi laquil",
         "jacalito la pulcata"
       ]
     },
@@ -1085,7 +1085,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 comedor dona carmen"
+        "comedor dona carmen"
       ]
     },
     {
@@ -1096,7 +1096,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -1116,8 +1116,8 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 desayunos gahory",
-        "01 michi laquil",
+        "desayunos gahory",
+        "02 michi laquil",
         "la barranca"
       ]
     },
@@ -1138,8 +1138,8 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 desayunos gahory",
-        "02 nonis fuente de sodas",
+        "desayunos gahory",
+        "01 nonis fuente de sodas",
         "la barranca"
       ]
     },
@@ -1171,7 +1171,7 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "01 michi laquil",
+        "02 michi laquil",
         "02 la chilaqueria"
       ]
     },
@@ -1192,9 +1192,9 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "pizza central",
-        "02 nonis fuente de sodas",
-        "meraki cafe"
+        "02 pizza central",
+        "01 nonis fuente de sodas",
+        "02 meraki cafe"
       ]
     },
     {
@@ -1214,7 +1214,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "antojitos fuentes",
+        "02 antojitos fuentes",
         "02 eii mar conejos"
       ]
     },
@@ -1244,7 +1244,7 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "pizza central",
+        "02 pizza central",
         "hamburguesas el guero",
         "antojo"
       ]
@@ -1436,9 +1436,9 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central",
-        "01 michi laquil",
-        "meraki cafe"
+        "02 expresso central",
+        "02 michi laquil",
+        "02 meraki cafe"
       ]
     },
     {
@@ -1460,7 +1460,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 desayunos gahory",
+        "desayunos gahory",
         "antojo",
         "02 pescados y mariscos los arcos"
       ]
@@ -1491,7 +1491,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "pizza central"
+        "02 pizza central"
       ]
     },
     {
@@ -1502,7 +1502,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 comedor dona carmen"
+        "comedor dona carmen"
       ]
     },
     {
@@ -1540,7 +1540,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -1563,8 +1563,8 @@
       "already_label": false,
       "examples_businesses": [
         "hamburguesas el guero",
-        "01 michi laquil",
-        "02 nonis fuente de sodas"
+        "02 michi laquil",
+        "01 nonis fuente de sodas"
       ]
     },
     {
@@ -1605,7 +1605,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -1696,7 +1696,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -1725,7 +1725,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "01 michi laquil",
+        "02 michi laquil",
         "jacalito la pulcata",
         "02 pescados y mariscos los arcos"
       ]
@@ -1805,7 +1805,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -1817,7 +1817,7 @@
       "already_label": false,
       "examples_businesses": [
         "tacos los licenciados",
-        "02 desayunos gahory",
+        "desayunos gahory",
         "tacos jessy"
       ]
     },
@@ -2038,7 +2038,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 comedor dona carmen",
+        "comedor dona carmen",
         "anjitos mexicanos dona bella"
       ]
     },
@@ -2097,7 +2097,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "la casa rooster"
+        "02 la casa rooster"
       ]
     },
     {
@@ -2117,7 +2117,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "pizza central"
+        "02 pizza central"
       ]
     },
     {
@@ -2150,7 +2150,7 @@
       "already_label": false,
       "examples_businesses": [
         "tacos los licenciados",
-        "pizza central"
+        "02 pizza central"
       ]
     },
     {
@@ -2162,7 +2162,7 @@
       "already_label": false,
       "examples_businesses": [
         "jacalito la pulcata",
-        "meraki cafe"
+        "02 meraki cafe"
       ]
     },
     {
@@ -2239,7 +2239,7 @@
       "already_label": false,
       "examples_businesses": [
         "tacos los licenciados",
-        "pizza central"
+        "02 pizza central"
       ]
     },
     {
@@ -2313,7 +2313,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "la casa rooster"
+        "02 la casa rooster"
       ]
     },
     {
@@ -2394,7 +2394,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -2444,7 +2444,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -2518,7 +2518,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "antojitos fuentes"
+        "02 antojitos fuentes"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "01 michi laquil"
+        "02 michi laquil"
       ]
     },
     {
@@ -2585,6 +2585,18 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": []
+    },
+    {
+      "term": "cerveza",
+      "term_norm": "cerveza",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "02 vinateria la jalisco",
+        "la barranca"
+      ]
     },
     {
       "term": "chipotle",
@@ -2612,9 +2624,18 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 nonis fuente de sodas",
+        "01 nonis fuente de sodas",
         "la barranca"
       ]
+    },
+    {
+      "term": "corona",
+      "term_norm": "corona",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
     },
     {
       "term": "crema cebolla",
@@ -2632,9 +2653,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "02 vinateria la jalisco"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "gratinados",
@@ -2644,7 +2663,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 desayunos gahory",
+        "desayunos gahory",
         "02 pescados y mariscos los arcos"
       ]
     },
@@ -2757,7 +2776,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "01 michi laquil"
+        "02 michi laquil"
       ]
     },
     {
@@ -2993,7 +3012,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "pizza central"
+        "02 pizza central"
       ]
     },
     {
@@ -3122,7 +3141,7 @@
       "already_label": false,
       "examples_businesses": [
         "tacos jessy",
-        "antojitos fuentes"
+        "02 antojitos fuentes"
       ]
     },
     {
@@ -3133,7 +3152,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "antojitos fuentes"
+        "02 antojitos fuentes"
       ]
     },
     {
@@ -3439,7 +3458,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 comedor dona carmen"
+        "comedor dona carmen"
       ]
     },
     {
@@ -3468,7 +3487,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 comedor dona carmen"
+        "comedor dona carmen"
       ]
     },
     {
@@ -3524,7 +3543,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -3535,8 +3554,8 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "01 michi laquil",
-        "02 nonis fuente de sodas"
+        "02 michi laquil",
+        "01 nonis fuente de sodas"
       ]
     },
     {
@@ -3605,7 +3624,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "02 expresso central"
       ]
     },
     {
@@ -4119,6 +4138,17 @@
       "examples_businesses": []
     },
     {
+      "term": "extra",
+      "term_norm": "extra",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "02 eii mar atotonilco"
+      ]
+    },
+    {
       "term": "frijoles salsa",
       "term_norm": "frijoles salsa",
       "total_mentions": 2,
@@ -4153,8 +4183,8 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 nonis fuente de sodas",
-        "meraki cafe"
+        "01 nonis fuente de sodas",
+        "02 meraki cafe"
       ]
     },
     {
@@ -4374,7 +4404,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 nonis fuente de sodas"
+        "01 nonis fuente de sodas"
       ]
     },
     {
@@ -4566,7 +4596,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "02 desayunos gahory"
+        "desayunos gahory"
       ]
     },
     {
