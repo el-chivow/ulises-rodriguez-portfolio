@@ -15,3 +15,6 @@ Transformo datos reales y desordenados en información clara para la toma de dec
 - 📈 Inteligencia de ventas para restaurantes (Power BI + Python)
 - 🤖 Clasificador automático de negocios (RAG)
 - 📊 Dashboard ejecutivo de KPIs financieros
+
+## Dashboard
+![Dashboard](screenshots/DASJBOARD.jpg)
