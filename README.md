@@ -17,4 +17,6 @@ Transformo datos reales y desordenados en información clara para la toma de dec
 - 📊 Dashboard ejecutivo de KPIs financieros
 
 ## Dashboard
-![Dashboard](screenshots/DASJBOARD.jpg)
+![Dashboard](powerbi/apol-sales-dashboard/screenshots/DASJBOARD.jpg)
+
+
