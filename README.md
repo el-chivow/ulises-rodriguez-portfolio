@@ -31,7 +31,7 @@ Transformo datos reales y desordenados en información clara para la toma de dec
 
 ➡️ Resultado: reducción del tiempo de análisis y mejora en la toma de decisiones operativas.
 
-### Clasificador automático de negocios  
+### Clasificador automático de negocios (Retrieval-Augmented Knowledge Structuring Engine) 
 **Python + RAG + reglas**
 
 Sistema que clasifica automáticamente negocios según su descripción y productos,
