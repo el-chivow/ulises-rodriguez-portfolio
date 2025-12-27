@@ -447,7 +447,7 @@
   {
     "document_id": "negocio_36",
     "tipo": "negocio",
-    "nombre": "HAMBURGUESAS \"EL GÜERO\"",
+    "nombre": "02-HAMBURGUESAS \"EL GÜERO\"",
     "descripcion_corta": "Hamburguesas, papas, hot-dogs",
     "descripcion_detallada": "Negocio de comida rápida que ofrece hamburguesas, papas, hot-dogs",
     "direccion": "Calle 60, Ciudad 50",
@@ -507,7 +507,7 @@
   {
     "document_id": "negocio_37",
     "tipo": "negocio",
-    "nombre": "02-MICHI-LAQUIL",
+    "nombre": "MICHI-LAQUIL",
     "descripcion_corta": "Chilaquiles y desayunos",
     "descripcion_detallada": "Negocio de comida que ofrece CHILAQUILES, DESAYUNOS Y VARIEDADES.",
     "direccion": "Calle 55, Ciudad 12",
@@ -667,7 +667,7 @@
   {
     "document_id": "negocio_38",
     "tipo": "negocio",
-    "nombre": "01-NONIS FUENTE DE SODAS",
+    "nombre": "02-NONIS FUENTE DE SODAS",
     "descripcion_corta": "Comida variada, heladería y pastes",
     "descripcion_detallada": "Negocio de comida que ofrece comida variada, heladería y pastes.",
     "direccion": "Calle 88, Ciudad 32",
@@ -857,7 +857,7 @@
   {
     "document_id": "negocio_39",
     "tipo": "negocio",
-    "nombre": "TACOS JESSY",
+    "nombre": "01-TACOS JESSY",
     "descripcion_corta": "Tacos de pastor, suadero, bistec, entre otros",
     "descripcion_detallada": "Negocio de comida que ofrece tacos de pastor, suadero, bistec, entre otros.",
     "direccion": "Calle 6, Ciudad 7",
@@ -1872,7 +1872,7 @@
   {
     "document_id": "negocio_56",
     "tipo": "negocio",
-    "nombre": "02-EII MAR CONEJOS",
+    "nombre": "EII MAR CONEJOS",
     "descripcion_corta": "Birria, ceviches y aguachiles",
     "descripcion_detallada": "Negocio de comida que ofrece birria, ceviches y aguachiles.",
     "direccion": "Calle 20, Ciudad 33",
@@ -2757,7 +2757,7 @@
   {
     "document_id": "negocio_63",
     "tipo": "negocio",
-    "nombre": "HOUSE OF JOCHOS",
+    "nombre": "02-HOUSE OF JOCHOS",
     "descripcion_corta": "Hot-dogs y algo más",
     "descripcion_detallada": "Negocio de comida que ofrece hot-dogs y algo más.",
     "direccion": "Calle 96, Ciudad 25",
@@ -3052,7 +3052,7 @@
   {
     "document_id": "negocio_69",
     "tipo": "negocio",
-    "nombre": "FRITALITAS",
+    "nombre": "02-FRITALITAS",
     "descripcion_corta": "ALITAS Y MÁS",
     "descripcion_detallada": "Negocio de comida que ofrece alitas y más.",
     "direccion": "Calle 87, Ciudad 42",

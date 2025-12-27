@@ -17,6 +17,7 @@ Trabajo con datos incompletos, desordenados y de múltiples fuentes para convert
 - **Python**: Jupyter, pandas, limpieza de datos, clasificación, RAG
 - **SQL**: consultas, agregaciones, preparación de datos
 - **Git / GitHub**: control de versiones y portafolio profesional
+- **excel**: ODBC
 
 ## Qué hago
 Transformo datos reales y desordenados en información clara para la toma de decisiones.
@@ -24,7 +25,7 @@ Transformo datos reales y desordenados en información clara para la toma de dec
 ## Proyectos destacados
 
 ### Inteligencia de ventas para restaurantes  
-**Power BI + Python**
+**Power BI + Python + excel**
 
 - Sistema de análisis que permite visualizar ventas, productos clave y rendimiento diario.
 - Los datos son limpiados y normalizados en Python antes de ser consumidos por Power BI.
