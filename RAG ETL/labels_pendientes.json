@@ -1,0 +1,4691 @@
+{
+  "generated_at": "2026-01-09T21:38:08.089927Z",
+  "min_businesses_for_tag": 2,
+  "min_businesses_for_label": 5,
+  "auto_promote_label": true,
+  "pending": [
+    {
+      "term": "queso",
+      "term_norm": "queso",
+      "total_mentions": 96,
+      "businesses": 17,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "desayunos gahory",
+        "michi laquil"
+      ]
+    },
+    {
+      "term": "cebolla",
+      "term_norm": "cebolla",
+      "total_mentions": 73,
+      "businesses": 15,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "salsa",
+      "term_norm": "salsa",
+      "total_mentions": 76,
+      "businesses": 13,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "la chilaqueria",
+        "eii mar atotonilco"
+      ]
+    },
+    {
+      "term": "carne",
+      "term_norm": "carne",
+      "total_mentions": 36,
+      "businesses": 12,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": []
+    },
+    {
+      "term": "pollo",
+      "term_norm": "pollo",
+      "total_mentions": 89,
+      "businesses": 11,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "desayunos gahory",
+        "hamburguesas el guero",
+        "michi laquil"
+      ]
+    },
+    {
+      "term": "verde",
+      "term_norm": "verde",
+      "total_mentions": 38,
+      "businesses": 11,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "la chilaqueria",
+        "eii mar atotonilco"
+      ]
+    },
+    {
+      "term": "papas",
+      "term_norm": "papas",
+      "total_mentions": 35,
+      "businesses": 11,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "pizza central",
+        "desayunos gahory",
+        "nonis fuente de sodas"
+      ]
+    },
+    {
+      "term": "lechuga",
+      "term_norm": "lechuga",
+      "total_mentions": 29,
+      "businesses": 10,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "antojitos fuentes",
+        "antojo"
+      ]
+    },
+    {
+      "term": "huevo",
+      "term_norm": "huevo",
+      "total_mentions": 51,
+      "businesses": 9,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
+    },
+    {
+      "term": "bistec",
+      "term_norm": "bistec",
+      "total_mentions": 43,
+      "businesses": 9,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "desayunos gahory",
+        "nonis fuente de sodas"
+      ]
+    },
+    {
+      "term": "pina",
+      "term_norm": "pina",
+      "total_mentions": 36,
+      "businesses": 9,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "eii mar atotonilco"
+      ]
+    },
+    {
+      "term": "crema",
+      "term_norm": "crema",
+      "total_mentions": 28,
+      "businesses": 9,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "expresso central",
+        "la chilaqueria",
+        "carnitas el amiguito"
+      ]
+    },
+    {
+      "term": "res",
+      "term_norm": "res",
+      "total_mentions": 28,
+      "businesses": 9,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "jamon",
+      "term_norm": "jamon",
+      "total_mentions": 36,
+      "businesses": 8,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": []
+    },
+    {
+      "term": "chilaquiles",
+      "term_norm": "chilaquiles",
+      "total_mentions": 34,
+      "businesses": 8,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "oaxaca",
+      "term_norm": "oaxaca",
+      "total_mentions": 30,
+      "businesses": 8,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": []
+    },
+    {
+      "term": "longaniza",
+      "term_norm": "longaniza",
+      "total_mentions": 24,
+      "businesses": 8,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "mas",
+      "term_norm": "mas",
+      "total_mentions": 14,
+      "businesses": 8,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central",
+        "la casa rooster",
+        "antojo"
+      ]
+    },
+    {
+      "term": "taco",
+      "term_norm": "taco",
+      "total_mentions": 39,
+      "businesses": 7,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos jessy",
+        "carnitas jawy",
+        "eii mar conejos"
+      ]
+    },
+    {
+      "term": "disponible",
+      "term_norm": "disponible",
+      "total_mentions": 36,
+      "businesses": 7,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "comedor dona carmen",
+        "antojitos fuentes"
+      ]
+    },
+    {
+      "term": "enchiladas",
+      "term_norm": "enchiladas",
+      "total_mentions": 34,
+      "businesses": 7,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "antojitos fuentes"
+      ]
+    },
+    {
+      "term": "jitomate",
+      "term_norm": "jitomate",
+      "total_mentions": 33,
+      "businesses": 7,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pechuga",
+      "term_norm": "pechuga",
+      "total_mentions": 27,
+      "businesses": 7,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "comedor dona carmen",
+        "la chilaqueria",
+        "fritalitas"
+      ]
+    },
+    {
+      "term": "tocino",
+      "term_norm": "tocino",
+      "total_mentions": 24,
+      "businesses": 7,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "pizza central",
+        "hamburguesas el guero",
+        "house of jochos"
+      ]
+    },
+    {
+      "term": "salsa verde",
+      "term_norm": "salsa verde",
+      "total_mentions": 21,
+      "businesses": 7,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "queso oaxaca",
+      "term_norm": "queso oaxaca",
+      "total_mentions": 19,
+      "businesses": 7,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "frijoles",
+      "term_norm": "frijoles",
+      "total_mentions": 15,
+      "businesses": 7,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "carnitas el amiguito",
+        "anjitos mexicanos dona bella"
+      ]
+    },
+    {
+      "term": "tacos",
+      "term_norm": "tacos",
+      "total_mentions": 51,
+      "businesses": 6,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "tacos jessy",
+        "carnitas el amiguito"
+      ]
+    },
+    {
+      "term": "mango",
+      "term_norm": "mango",
+      "total_mentions": 38,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar atotonilco",
+        "la casa rooster",
+        "fritalitas"
+      ]
+    },
+    {
+      "term": "casa",
+      "term_norm": "casa",
+      "total_mentions": 29,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "jacalito la pulcata",
+        "la casa rooster"
+      ]
+    },
+    {
+      "term": "hamburguesa",
+      "term_norm": "hamburguesa",
+      "total_mentions": 25,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero"
+      ]
+    },
+    {
+      "term": "salchicha",
+      "term_norm": "salchicha",
+      "total_mentions": 25,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "super tortas",
+        "house of jochos"
+      ]
+    },
+    {
+      "term": "acompanados",
+      "term_norm": "acompanados",
+      "total_mentions": 23,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "michi laquil",
+        "la chilaqueria",
+        "meraki cafe"
+      ]
+    },
+    {
+      "term": "manchego",
+      "term_norm": "manchego",
+      "total_mentions": 20,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pollo huevo",
+      "term_norm": "pollo huevo",
+      "total_mentions": 20,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "asada",
+      "term_norm": "asada",
+      "total_mentions": 19,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "chocolate",
+      "term_norm": "chocolate",
+      "total_mentions": 19,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chorizo",
+      "term_norm": "chorizo",
+      "total_mentions": 18,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "fresa",
+      "term_norm": "fresa",
+      "total_mentions": 17,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "mexicana",
+      "term_norm": "mexicana",
+      "total_mentions": 16,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "pizza central"
+      ]
+    },
+    {
+      "term": "roja",
+      "term_norm": "roja",
+      "total_mentions": 13,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "francesa",
+      "term_norm": "francesa",
+      "total_mentions": 12,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "house of jochos",
+        "fritalitas"
+      ]
+    },
+    {
+      "term": "cerdo",
+      "term_norm": "cerdo",
+      "total_mentions": 10,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "comedor dona carmen",
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "verdes",
+      "term_norm": "verdes",
+      "total_mentions": 10,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "desayunos gahory",
+        "nonis fuente de sodas",
+        "la barranca"
+      ]
+    },
+    {
+      "term": "hawaiana",
+      "term_norm": "hawaiana",
+      "total_mentions": 9,
+      "businesses": 6,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "pizza central",
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
+    },
+    {
+      "term": "aguacate",
+      "term_norm": "aguacate",
+      "total_mentions": 31,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "desayunos gahory",
+        "la chilaqueria",
+        "pescados y mariscos los arcos"
+      ]
+    },
+    {
+      "term": "torta",
+      "term_norm": "torta",
+      "total_mentions": 29,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "carnitas jawy",
+        "carnitas el amiguito"
+      ]
+    },
+    {
+      "term": "ensalada",
+      "term_norm": "ensalada",
+      "total_mentions": 24,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "desayunos gahory",
+        "comedor dona carmen"
+      ]
+    },
+    {
+      "term": "hot",
+      "term_norm": "hot",
+      "total_mentions": 23,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sopes",
+      "term_norm": "sopes",
+      "total_mentions": 22,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "la barranca",
+        "jacalito la pulcata",
+        "antojitos fuentes"
+      ]
+    },
+    {
+      "term": "acompanado",
+      "term_norm": "acompanado",
+      "total_mentions": 19,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "carnitas el amiguito"
+      ]
+    },
+    {
+      "term": "jitomate cebolla",
+      "term_norm": "jitomate cebolla",
+      "total_mentions": 19,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "fritas",
+      "term_norm": "fritas",
+      "total_mentions": 17,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "arrachera",
+      "term_norm": "arrachera",
+      "total_mentions": 15,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "pizza central",
+        "hamburguesas el guero"
+      ]
+    },
+    {
+      "term": "blanco",
+      "term_norm": "blanco",
+      "total_mentions": 14,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sandwich",
+      "term_norm": "sandwich",
+      "total_mentions": 14,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "agua",
+      "term_norm": "agua",
+      "total_mentions": 11,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "amarillo",
+      "term_norm": "amarillo",
+      "total_mentions": 11,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "michi laquil",
+        "super tortas"
+      ]
+    },
+    {
+      "term": "papas francesa",
+      "term_norm": "papas francesa",
+      "total_mentions": 11,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "limon",
+      "term_norm": "limon",
+      "total_mentions": 10,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "tortillas",
+      "term_norm": "tortillas",
+      "total_mentions": 9,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "antojitos fuentes"
+      ]
+    },
+    {
+      "term": "rojo",
+      "term_norm": "rojo",
+      "total_mentions": 8,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar atotonilco"
+      ]
+    },
+    {
+      "term": "tinga",
+      "term_norm": "tinga",
+      "total_mentions": 7,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "antojitos fuentes"
+      ]
+    },
+    {
+      "term": "asado",
+      "term_norm": "asado",
+      "total_mentions": 6,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "nonis fuente de sodas",
+        "la barranca"
+      ]
+    },
+    {
+      "term": "relleno",
+      "term_norm": "relleno",
+      "total_mentions": 6,
+      "businesses": 5,
+      "kind": "label",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cafe",
+      "term_norm": "cafe",
+      "total_mentions": 93,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "habanero",
+      "term_norm": "habanero",
+      "total_mentions": 39,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar atotonilco",
+        "la casa rooster"
+      ]
+    },
+    {
+      "term": "bbq",
+      "term_norm": "bbq",
+      "total_mentions": 37,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "milanesa",
+      "term_norm": "milanesa",
+      "total_mentions": 24,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "super tortas"
+      ]
+    },
+    {
+      "term": "catsup",
+      "term_norm": "catsup",
+      "total_mentions": 19,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "elige",
+      "term_norm": "elige",
+      "total_mentions": 18,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "huevos",
+      "term_norm": "huevos",
+      "total_mentions": 17,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pastor",
+      "term_norm": "pastor",
+      "total_mentions": 16,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos jessy"
+      ]
+    },
+    {
+      "term": "quesadilla",
+      "term_norm": "quesadilla",
+      "total_mentions": 16,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados"
+      ]
+    },
+    {
+      "term": "dedos",
+      "term_norm": "dedos",
+      "total_mentions": 13,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la casa rooster"
+      ]
+    },
+    {
+      "term": "mostaza",
+      "term_norm": "mostaza",
+      "total_mentions": 13,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "meraki cafe",
+        "house of jochos"
+      ]
+    },
+    {
+      "term": "trozos",
+      "term_norm": "trozos",
+      "total_mentions": 13,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "dedos queso",
+      "term_norm": "dedos queso",
+      "total_mentions": 12,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pechuga pollo",
+      "term_norm": "pechuga pollo",
+      "total_mentions": 11,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pancita",
+      "term_norm": "pancita",
+      "total_mentions": 10,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "antojitos fuentes"
+      ]
+    },
+    {
+      "term": "pechuga asada",
+      "term_norm": "pechuga asada",
+      "total_mentions": 10,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "lechuga jitomate",
+      "term_norm": "lechuga jitomate",
+      "total_mentions": 9,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sabor",
+      "term_norm": "sabor",
+      "total_mentions": 9,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central",
+        "antojo"
+      ]
+    },
+    {
+      "term": "verde roja",
+      "term_norm": "verde roja",
+      "total_mentions": 9,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "agua mineral",
+      "term_norm": "agua mineral",
+      "total_mentions": 8,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mineral",
+      "term_norm": "mineral",
+      "total_mentions": 8,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "jacalito la pulcata"
+      ]
+    },
+    {
+      "term": "platano",
+      "term_norm": "platano",
+      "total_mentions": 8,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "queso manchego",
+      "term_norm": "queso manchego",
+      "total_mentions": 8,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "hamburguesa pollo",
+      "term_norm": "hamburguesa pollo",
+      "total_mentions": 7,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mole",
+      "term_norm": "mole",
+      "total_mentions": 7,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "michi laquil",
+        "jacalito la pulcata"
+      ]
+    },
+    {
+      "term": "nuez",
+      "term_norm": "nuez",
+      "total_mentions": 7,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pan",
+      "term_norm": "pan",
+      "total_mentions": 7,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "quesadillas",
+      "term_norm": "quesadillas",
+      "total_mentions": 7,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "queso amarillo",
+      "term_norm": "queso amarillo",
+      "total_mentions": 7,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "rebanada",
+      "term_norm": "rebanada",
+      "total_mentions": 7,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
+    },
+    {
+      "term": "banados",
+      "term_norm": "banados",
+      "total_mentions": 6,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "banados salsa",
+      "term_norm": "banados salsa",
+      "total_mentions": 6,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "carne res",
+      "term_norm": "carne res",
+      "total_mentions": 6,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "entre",
+      "term_norm": "entre",
+      "total_mentions": 6,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos jessy"
+      ]
+    },
+    {
+      "term": "pollo salsa",
+      "term_norm": "pollo salsa",
+      "total_mentions": 6,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "solo",
+      "term_norm": "solo",
+      "total_mentions": 6,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "encebollada",
+      "term_norm": "encebollada",
+      "total_mentions": 5,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "comedor dona carmen"
+      ]
+    },
+    {
+      "term": "lechera",
+      "term_norm": "lechera",
+      "total_mentions": 5,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "tinga pollo",
+      "term_norm": "tinga pollo",
+      "total_mentions": 5,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "tortilla",
+      "term_norm": "tortilla",
+      "total_mentions": 5,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil",
+        "la barranca"
+      ]
+    },
+    {
+      "term": "chilaquiles verdes",
+      "term_norm": "chilaquiles verdes",
+      "total_mentions": 4,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "encebollado",
+      "term_norm": "encebollado",
+      "total_mentions": 4,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "desayunos gahory",
+        "nonis fuente de sodas",
+        "la barranca"
+      ]
+    },
+    {
+      "term": "mar",
+      "term_norm": "mar",
+      "total_mentions": 4,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar conejos"
+      ]
+    },
+    {
+      "term": "omelette",
+      "term_norm": "omelette",
+      "total_mentions": 4,
+      "businesses": 4,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "desayunos",
+      "term_norm": "desayunos",
+      "total_mentions": 47,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "michi laquil",
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "bebida",
+      "term_norm": "bebida",
+      "total_mentions": 22,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pizza",
+      "term_norm": "pizza",
+      "total_mentions": 22,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "pizza central",
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
+    },
+    {
+      "term": "mango habanero",
+      "term_norm": "mango habanero",
+      "total_mentions": 20,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "birria",
+      "term_norm": "birria",
+      "total_mentions": 18,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "antojitos fuentes",
+        "eii mar conejos"
+      ]
+    },
+    {
+      "term": "mayonesa",
+      "term_norm": "mayonesa",
+      "total_mentions": 18,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "arroz",
+      "term_norm": "arroz",
+      "total_mentions": 17,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "hamburguesas",
+      "term_norm": "hamburguesas",
+      "total_mentions": 16,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": [
+        "pizza central",
+        "hamburguesas el guero",
+        "antojo"
+      ]
+    },
+    {
+      "term": "nopales",
+      "term_norm": "nopales",
+      "total_mentions": 16,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pierna",
+      "term_norm": "pierna",
+      "total_mentions": 15,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "super tortas"
+      ]
+    },
+    {
+      "term": "alitas",
+      "term_norm": "alitas",
+      "total_mentions": 14,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cilantro",
+      "term_norm": "cilantro",
+      "total_mentions": 14,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la chilaqueria",
+        "carnitas el amiguito"
+      ]
+    },
+    {
+      "term": "pepino",
+      "term_norm": "pepino",
+      "total_mentions": 14,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "naranja",
+      "term_norm": "naranja",
+      "total_mentions": 13,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "aderezo",
+      "term_norm": "aderezo",
+      "total_mentions": 12,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "antojo",
+        "fritalitas"
+      ]
+    },
+    {
+      "term": "chicharron",
+      "term_norm": "chicharron",
+      "total_mentions": 12,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "rojos",
+      "term_norm": "rojos",
+      "total_mentions": 12,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "caldo",
+      "term_norm": "caldo",
+      "total_mentions": 11,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "gratinado",
+      "term_norm": "gratinado",
+      "total_mentions": 10,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "carnitas el amiguito"
+      ]
+    },
+    {
+      "term": "tequila",
+      "term_norm": "tequila",
+      "total_mentions": 10,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "drinks 24 7"
+      ]
+    },
+    {
+      "term": "vegetales",
+      "term_norm": "vegetales",
+      "total_mentions": 10,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero"
+      ]
+    },
+    {
+      "term": "jugo",
+      "term_norm": "jugo",
+      "total_mentions": 9,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "vainilla",
+      "term_norm": "vainilla",
+      "total_mentions": 9,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "boneless",
+      "term_norm": "boneless",
+      "total_mentions": 8,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "crema queso",
+      "term_norm": "crema queso",
+      "total_mentions": 8,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "crepas",
+      "term_norm": "crepas",
+      "total_mentions": 8,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "queso cebolla",
+      "term_norm": "queso cebolla",
+      "total_mentions": 8,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "frappe",
+      "term_norm": "frappe",
+      "total_mentions": 7,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central",
+        "michi laquil",
+        "meraki cafe"
+      ]
+    },
+    {
+      "term": "ingredientes",
+      "term_norm": "ingredientes",
+      "total_mentions": 7,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la barranca"
+      ]
+    },
+    {
+      "term": "todo",
+      "term_norm": "todo",
+      "total_mentions": 7,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "desayunos gahory",
+        "antojo",
+        "pescados y mariscos los arcos"
+      ]
+    },
+    {
+      "term": "caramelizada",
+      "term_norm": "caramelizada",
+      "total_mentions": 6,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "carnes",
+      "term_norm": "carnes",
+      "total_mentions": 6,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "pizza central"
+      ]
+    },
+    {
+      "term": "empanizada",
+      "term_norm": "empanizada",
+      "total_mentions": 6,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "comedor dona carmen"
+      ]
+    },
+    {
+      "term": "fruta",
+      "term_norm": "fruta",
+      "total_mentions": 6,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "gorditas",
+      "term_norm": "gorditas",
+      "total_mentions": 6,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "jitomate aguacate",
+      "term_norm": "jitomate aguacate",
+      "total_mentions": 6,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "nutella",
+      "term_norm": "nutella",
+      "total_mentions": 6,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "pavo",
+      "term_norm": "pavo",
+      "total_mentions": 6,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "house of jochos"
+      ]
+    },
+    {
+      "term": "acompanadas",
+      "term_norm": "acompanadas",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "aderezos",
+      "term_norm": "aderezos",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "fritalitas"
+      ]
+    },
+    {
+      "term": "banadas",
+      "term_norm": "banadas",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "bombones",
+      "term_norm": "bombones",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "cajeta",
+      "term_norm": "cajeta",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cebolla caramelizada",
+      "term_norm": "cebolla caramelizada",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "ceviches",
+      "term_norm": "ceviches",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar conejos"
+      ]
+    },
+    {
+      "term": "chispas",
+      "term_norm": "chispas",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "frijol",
+      "term_norm": "frijol",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "carnitas el amiguito",
+        "anjitos mexicanos dona bella"
+      ]
+    },
+    {
+      "term": "gusto",
+      "term_norm": "gusto",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "jose",
+      "term_norm": "jose",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "drinks 24 7"
+      ]
+    },
+    {
+      "term": "mermelada",
+      "term_norm": "mermelada",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "moka",
+      "term_norm": "moka",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "pancita res",
+      "term_norm": "pancita res",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pina jamon",
+      "term_norm": "pina jamon",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "rellenas",
+      "term_norm": "rellenas",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "michi laquil",
+        "jacalito la pulcata",
+        "pescados y mariscos los arcos"
+      ]
+    },
+    {
+      "term": "taro",
+      "term_norm": "taro",
+      "total_mentions": 5,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "adobo",
+      "term_norm": "adobo",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "campechano",
+      "term_norm": "campechano",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos jessy"
+      ]
+    },
+    {
+      "term": "champinones",
+      "term_norm": "champinones",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "granola",
+      "term_norm": "granola",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "guacamole",
+      "term_norm": "guacamole",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "house of jochos"
+      ]
+    },
+    {
+      "term": "hamburguesa arrachera",
+      "term_norm": "hamburguesa arrachera",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "hershey",
+      "term_norm": "hershey",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "loganiza",
+      "term_norm": "loganiza",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "desayunos gahory",
+        "tacos jessy"
+      ]
+    },
+    {
+      "term": "mole rojo",
+      "term_norm": "mole rojo",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "papas fritas",
+      "term_norm": "papas fritas",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pollo empanizada",
+      "term_norm": "pollo empanizada",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sope",
+      "term_norm": "sope",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "variedad",
+      "term_norm": "variedad",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "yogurt",
+      "term_norm": "yogurt",
+      "total_mentions": 4,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "bistec encebollado",
+      "term_norm": "bistec encebollado",
+      "total_mentions": 3,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "bistec tacos",
+      "term_norm": "bistec tacos",
+      "total_mentions": 3,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chico",
+      "term_norm": "chico",
+      "total_mentions": 3,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "club",
+      "term_norm": "club",
+      "total_mentions": 3,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "club sandwich",
+      "term_norm": "club sandwich",
+      "total_mentions": 3,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "deliciosas",
+      "term_norm": "deliciosas",
+      "total_mentions": 3,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "hawaiano",
+      "term_norm": "hawaiano",
+      "total_mentions": 3,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "maiz",
+      "term_norm": "maiz",
+      "total_mentions": 3,
+      "businesses": 3,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mariscos",
+      "term_norm": "mariscos",
+      "total_mentions": 59,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": []
+    },
+    {
+      "term": "carnitas",
+      "term_norm": "carnitas",
+      "total_mentions": 44,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "carnitas jawy",
+        "carnitas el amiguito"
+      ]
+    },
+    {
+      "term": "camaron",
+      "term_norm": "camaron",
+      "total_mentions": 32,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la barranca"
+      ]
+    },
+    {
+      "term": "quesillo",
+      "term_norm": "quesillo",
+      "total_mentions": 28,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "super tortas"
+      ]
+    },
+    {
+      "term": "central",
+      "term_norm": "central",
+      "total_mentions": 27,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "antojitos",
+      "term_norm": "antojitos",
+      "total_mentions": 26,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": []
+    },
+    {
+      "term": "eiimar",
+      "term_norm": "eiimar",
+      "total_mentions": 21,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar atotonilco",
+        "eii mar conejos"
+      ]
+    },
+    {
+      "term": "dona",
+      "term_norm": "dona",
+      "total_mentions": 17,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "comedor dona carmen",
+        "anjitos mexicanos dona bella"
+      ]
+    },
+    {
+      "term": "ceviche",
+      "term_norm": "ceviche",
+      "total_mentions": 15,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar atotonilco"
+      ]
+    },
+    {
+      "term": "habanero bbq",
+      "term_norm": "habanero bbq",
+      "total_mentions": 15,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "zanahoria",
+      "term_norm": "zanahoria",
+      "total_mentions": 14,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "frito",
+      "term_norm": "frito",
+      "total_mentions": 13,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "quesos",
+      "term_norm": "quesos",
+      "total_mentions": 13,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "salsas",
+      "term_norm": "salsas",
+      "total_mentions": 13,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la casa rooster"
+      ]
+    },
+    {
+      "term": "chile",
+      "term_norm": "chile",
+      "total_mentions": 12,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pepperoni",
+      "term_norm": "pepperoni",
+      "total_mentions": 11,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "pizza central"
+      ]
+    },
+    {
+      "term": "victoria",
+      "term_norm": "victoria",
+      "total_mentions": 11,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "la barranca"
+      ]
+    },
+    {
+      "term": "carnitas carnitas",
+      "term_norm": "carnitas carnitas",
+      "total_mentions": 10,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chistorra",
+      "term_norm": "chistorra",
+      "total_mentions": 10,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "pizza central"
+      ]
+    },
+    {
+      "term": "frutos",
+      "term_norm": "frutos",
+      "total_mentions": 10,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "meraki cafe"
+      ]
+    },
+    {
+      "term": "frutos rojos",
+      "term_norm": "frutos rojos",
+      "total_mentions": 10,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "oaxaca manchego",
+      "term_norm": "oaxaca manchego",
+      "total_mentions": 9,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "bufalo",
+      "term_norm": "bufalo",
+      "total_mentions": 8,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "catsup mostaza",
+      "term_norm": "catsup mostaza",
+      "total_mentions": 8,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mayonesa catsup",
+      "term_norm": "mayonesa catsup",
+      "total_mentions": 8,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pepino zanahoria",
+      "term_norm": "pepino zanahoria",
+      "total_mentions": 8,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "ranch",
+      "term_norm": "ranch",
+      "total_mentions": 8,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "argentino",
+      "term_norm": "argentino",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "pizza central"
+      ]
+    },
+    {
+      "term": "bistec nopales",
+      "term_norm": "bistec nopales",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "bufalo mango",
+      "term_norm": "bufalo mango",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cebolla cilantro",
+      "term_norm": "cebolla cilantro",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chicharron prensado",
+      "term_norm": "chicharron prensado",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chiles",
+      "term_norm": "chiles",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chorizo argentino",
+      "term_norm": "chorizo argentino",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cilantro aguacate",
+      "term_norm": "cilantro aguacate",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "costillas",
+      "term_norm": "costillas",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "costra",
+      "term_norm": "costra",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "house of jochos"
+      ]
+    },
+    {
+      "term": "costra queso",
+      "term_norm": "costra queso",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "dorados",
+      "term_norm": "dorados",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "carnitas el amiguito"
+      ]
+    },
+    {
+      "term": "jamon queso",
+      "term_norm": "jamon queso",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "lemon",
+      "term_norm": "lemon",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "prensado",
+      "term_norm": "prensado",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la barranca"
+      ]
+    },
+    {
+      "term": "tacos dorados",
+      "term_norm": "tacos dorados",
+      "total_mentions": 7,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "americano",
+      "term_norm": "americano",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "bistec longaniza",
+      "term_norm": "bistec longaniza",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cazuela",
+      "term_norm": "cazuela",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chiles vinagre",
+      "term_norm": "chiles vinagre",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "conejo",
+      "term_norm": "conejo",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la barranca",
+        "jacalito la pulcata"
+      ]
+    },
+    {
+      "term": "espresso",
+      "term_norm": "espresso",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "frijolitos",
+      "term_norm": "frijolitos",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "fundido",
+      "term_norm": "fundido",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "latte",
+      "term_norm": "latte",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "lechuga queso",
+      "term_norm": "lechuga queso",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "salsa elige",
+      "term_norm": "salsa elige",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "taco bistec",
+      "term_norm": "taco bistec",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "tiras",
+      "term_norm": "tiras",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "tostada",
+      "term_norm": "tostada",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "antojitos fuentes"
+      ]
+    },
+    {
+      "term": "vinagre",
+      "term_norm": "vinagre",
+      "total_mentions": 6,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "alambre",
+      "term_norm": "alambre",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "arroz frijoles",
+      "term_norm": "arroz frijoles",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "bebida cafe",
+      "term_norm": "bebida cafe",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "burger",
+      "term_norm": "burger",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "capuccino",
+      "term_norm": "capuccino",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "michi laquil"
+      ]
+    },
+    {
+      "term": "cebolla morada",
+      "term_norm": "cebolla morada",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cerveza",
+      "term_norm": "cerveza",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "la barranca"
+      ]
+    },
+    {
+      "term": "chipotle",
+      "term_norm": "chipotle",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "coco",
+      "term_norm": "coco",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "coctel",
+      "term_norm": "coctel",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "la barranca"
+      ]
+    },
+    {
+      "term": "corona",
+      "term_norm": "corona",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "crema cebolla",
+      "term_norm": "crema cebolla",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cuatro",
+      "term_norm": "cuatro",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "gratinados",
+      "term_norm": "gratinados",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "desayunos gahory",
+        "pescados y mariscos los arcos"
+      ]
+    },
+    {
+      "term": "huevo sopes",
+      "term_norm": "huevo sopes",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "jugo naranja",
+      "term_norm": "jugo naranja",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "jugosa",
+      "term_norm": "jugosa",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "leche",
+      "term_norm": "leche",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "limonada",
+      "term_norm": "limonada",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "matcha",
+      "term_norm": "matcha",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mezcla",
+      "term_norm": "mezcla",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "morada",
+      "term_norm": "morada",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "papas ensalada",
+      "term_norm": "papas ensalada",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pepperoni hawaiana",
+      "term_norm": "pepperoni hawaiana",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "queso crema",
+      "term_norm": "queso crema",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "revueltos",
+      "term_norm": "revueltos",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "michi laquil"
+      ]
+    },
+    {
+      "term": "sopes pollo",
+      "term_norm": "sopes pollo",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "verde lechuga",
+      "term_norm": "verde lechuga",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "zanahoria pepino",
+      "term_norm": "zanahoria pepino",
+      "total_mentions": 5,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "acompanada",
+      "term_norm": "acompanada",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "aguachiles",
+      "term_norm": "aguachiles",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar atotonilco",
+        "eii mar conejos"
+      ]
+    },
+    {
+      "term": "avellana",
+      "term_norm": "avellana",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "banadas salsa",
+      "term_norm": "banadas salsa",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "botellas",
+      "term_norm": "botellas",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "drinks 24 7"
+      ]
+    },
+    {
+      "term": "cacahuate",
+      "term_norm": "cacahuate",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cafe americano",
+      "term_norm": "cafe americano",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cafeteria",
+      "term_norm": "cafeteria",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": true,
+      "examples_businesses": []
+    },
+    {
+      "term": "caramel",
+      "term_norm": "caramel",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "caramelo",
+      "term_norm": "caramelo",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "carne pollo",
+      "term_norm": "carne pollo",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "carnes frias",
+      "term_norm": "carnes frias",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cazuela mariscos",
+      "term_norm": "cazuela mariscos",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "ceviches aguachiles",
+      "term_norm": "ceviches aguachiles",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "crema cacahuate",
+      "term_norm": "crema cacahuate",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cuervo",
+      "term_norm": "cuervo",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "drinks 24 7"
+      ]
+    },
+    {
+      "term": "dogs",
+      "term_norm": "dogs",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "dulces",
+      "term_norm": "dulces",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "durazno",
+      "term_norm": "durazno",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "entre otros",
+      "term_norm": "entre otros",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "espinaca",
+      "term_norm": "espinaca",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "frias",
+      "term_norm": "frias",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "pizza central"
+      ]
+    },
+    {
+      "term": "hamburguesa res",
+      "term_norm": "hamburguesa res",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "hot dogs",
+      "term_norm": "hot dogs",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "huevo chorizo",
+      "term_norm": "huevo chorizo",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "jalapeno",
+      "term_norm": "jalapeno",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "jose cuervo",
+      "term_norm": "jose cuervo",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "kiwi",
+      "term_norm": "kiwi",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "limones",
+      "term_norm": "limones",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mantequilla",
+      "term_norm": "mantequilla",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "maracuya",
+      "term_norm": "maracuya",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "miel",
+      "term_norm": "miel",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "milanesa torta",
+      "term_norm": "milanesa torta",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mostaza catsup",
+      "term_norm": "mostaza catsup",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "nopales sopes",
+      "term_norm": "nopales sopes",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "otros",
+      "term_norm": "otros",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos jessy",
+        "antojitos fuentes"
+      ]
+    },
+    {
+      "term": "pata",
+      "term_norm": "pata",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "antojitos fuentes"
+      ]
+    },
+    {
+      "term": "philadelphia",
+      "term_norm": "philadelphia",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "refresco",
+      "term_norm": "refresco",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "res cerdo",
+      "term_norm": "res cerdo",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "rojas",
+      "term_norm": "rojas",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "taco birria",
+      "term_norm": "taco birria",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "torta milanesa",
+      "term_norm": "torta milanesa",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "tostadas",
+      "term_norm": "tostadas",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "totopos",
+      "term_norm": "totopos",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "variada",
+      "term_norm": "variada",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "viernes",
+      "term_norm": "viernes",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "zarzamora",
+      "term_norm": "zarzamora",
+      "total_mentions": 4,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "acompanadas aderezo",
+      "term_norm": "acompanadas aderezo",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "aderezo ranch",
+      "term_norm": "aderezo ranch",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "ajo",
+      "term_norm": "ajo",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "ala",
+      "term_norm": "ala",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "bistec mexicana",
+      "term_norm": "bistec mexicana",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cafe espresso",
+      "term_norm": "cafe espresso",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cajeta nutella",
+      "term_norm": "cajeta nutella",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "campechanos",
+      "term_norm": "campechanos",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "anjitos mexicanos dona bella"
+      ]
+    },
+    {
+      "term": "caramel macchiato",
+      "term_norm": "caramel macchiato",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "carne asada",
+      "term_norm": "carne asada",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cecina",
+      "term_norm": "cecina",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados",
+        "jacalito la pulcata"
+      ]
+    },
+    {
+      "term": "chamoy",
+      "term_norm": "chamoy",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chilaquiles carne",
+      "term_norm": "chilaquiles carne",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chilaquiles desayunos",
+      "term_norm": "chilaquiles desayunos",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "coca",
+      "term_norm": "coca",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "coca cola",
+      "term_norm": "coca cola",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cola",
+      "term_norm": "cola",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "como",
+      "term_norm": "como",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "conejo salsa",
+      "term_norm": "conejo salsa",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "consome",
+      "term_norm": "consome",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar conejos"
+      ]
+    },
+    {
+      "term": "disponible pancita",
+      "term_norm": "disponible pancita",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "durazno platano",
+      "term_norm": "durazno platano",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "empanizado",
+      "term_norm": "empanizado",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "comedor dona carmen"
+      ]
+    },
+    {
+      "term": "enchiladas suizas",
+      "term_norm": "enchiladas suizas",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "estrellados",
+      "term_norm": "estrellados",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "finas",
+      "term_norm": "finas",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "comedor dona carmen"
+      ]
+    },
+    {
+      "term": "fresa chocolate",
+      "term_norm": "fresa chocolate",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "fresa durazno",
+      "term_norm": "fresa durazno",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "fresa platano",
+      "term_norm": "fresa platano",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "frijoles conejo",
+      "term_norm": "frijoles conejo",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "frijoles totopos",
+      "term_norm": "frijoles totopos",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "galleta",
+      "term_norm": "galleta",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "galletas",
+      "term_norm": "galletas",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
+    },
+    {
+      "term": "gordita",
+      "term_norm": "gordita",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "gringa",
+      "term_norm": "gringa",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos jessy"
+      ]
+    },
+    {
+      "term": "guayaba",
+      "term_norm": "guayaba",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "huitlacoche",
+      "term_norm": "huitlacoche",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "anjitos mexicanos dona bella"
+      ]
+    },
+    {
+      "term": "jamon pavo",
+      "term_norm": "jamon pavo",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "lechuga cebolla",
+      "term_norm": "lechuga cebolla",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "macchiato",
+      "term_norm": "macchiato",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "expresso central"
+      ]
+    },
+    {
+      "term": "manzana",
+      "term_norm": "manzana",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mas alitas",
+      "term_norm": "mas alitas",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mazapan",
+      "term_norm": "mazapan",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "molcajete",
+      "term_norm": "molcajete",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mollejas",
+      "term_norm": "mollejas",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mozzarella",
+      "term_norm": "mozzarella",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "oreo",
+      "term_norm": "oreo",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "parrillada",
+      "term_norm": "parrillada",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados"
+      ]
+    },
+    {
+      "term": "pastel",
+      "term_norm": "pastel",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "picadillo",
+      "term_norm": "picadillo",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "picante",
+      "term_norm": "picante",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pierna salchicha",
+      "term_norm": "pierna salchicha",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pollo encebollada",
+      "term_norm": "pollo encebollada",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pollo mexicana",
+      "term_norm": "pollo mexicana",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pollo queso",
+      "term_norm": "pollo queso",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "quelites",
+      "term_norm": "quelites",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "anjitos mexicanos dona bella"
+      ]
+    },
+    {
+      "term": "queso fundido",
+      "term_norm": "queso fundido",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "queso lechuga",
+      "term_norm": "queso lechuga",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "rebanada pastel",
+      "term_norm": "rebanada pastel",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "salados",
+      "term_norm": "salados",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "salchicha torta",
+      "term_norm": "salchicha torta",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sandwich jamon",
+      "term_norm": "sandwich jamon",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sopa",
+      "term_norm": "sopa",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sopes huevo",
+      "term_norm": "sopes huevo",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "suizas",
+      "term_norm": "suizas",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "taco carnitas",
+      "term_norm": "taco carnitas",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "tajin",
+      "term_norm": "tajin",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "tipica",
+      "term_norm": "tipica",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "todas",
+      "term_norm": "todas",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "torta chilaquiles",
+      "term_norm": "torta chilaquiles",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "valentina",
+      "term_norm": "valentina",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "variedades",
+      "term_norm": "variedades",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "la chilaqueria"
+      ]
+    },
+    {
+      "term": "variedades chilaquiles",
+      "term_norm": "variedades chilaquiles",
+      "total_mentions": 3,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "acompanados aderezo",
+      "term_norm": "acompanados aderezo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "acompanados frijoles",
+      "term_norm": "acompanados frijoles",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "ala mexicana",
+      "term_norm": "ala mexicana",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "argentina",
+      "term_norm": "argentina",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "super tortas"
+      ]
+    },
+    {
+      "term": "aros",
+      "term_norm": "aros",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "aros cebolla",
+      "term_norm": "aros cebolla",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "asada pechuga",
+      "term_norm": "asada pechuga",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "boing",
+      "term_norm": "boing",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cada",
+      "term_norm": "cada",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "drinks 24 7"
+      ]
+    },
+    {
+      "term": "carne arrachera",
+      "term_norm": "carne arrachera",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "carnitas taco",
+      "term_norm": "carnitas taco",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cebolla aguacate",
+      "term_norm": "cebolla aguacate",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cebolla jitomate",
+      "term_norm": "cebolla jitomate",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chile guajillo",
+      "term_norm": "chile guajillo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "chilito",
+      "term_norm": "chilito",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "tacos los licenciados"
+      ]
+    },
+    {
+      "term": "chocolate chocolate",
+      "term_norm": "chocolate chocolate",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "cremosa",
+      "term_norm": "cremosa",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "deliciosas papas",
+      "term_norm": "deliciosas papas",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "deliciosos",
+      "term_norm": "deliciosos",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "desayunos variedades",
+      "term_norm": "desayunos variedades",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "disponible solo",
+      "term_norm": "disponible solo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "disponibles",
+      "term_norm": "disponibles",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "fritalitas"
+      ]
+    },
+    {
+      "term": "eii",
+      "term_norm": "eii",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar atotonilco",
+        "eii mar conejos"
+      ]
+    },
+    {
+      "term": "eii mar",
+      "term_norm": "eii mar",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "estrellado",
+      "term_norm": "estrellado",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "extra",
+      "term_norm": "extra",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar atotonilco"
+      ]
+    },
+    {
+      "term": "frijoles salsa",
+      "term_norm": "frijoles salsa",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "frito cebolla",
+      "term_norm": "frito cebolla",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "gajo",
+      "term_norm": "gajo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "gallo",
+      "term_norm": "gallo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
+    },
+    {
+      "term": "gratin",
+      "term_norm": "gratin",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "guajillo",
+      "term_norm": "guajillo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "guisado",
+      "term_norm": "guisado",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "gusto acompanado",
+      "term_norm": "gusto acompanado",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "hamburguesa hawaiana",
+      "term_norm": "hamburguesa hawaiana",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "harina",
+      "term_norm": "harina",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "huevo enchiladas",
+      "term_norm": "huevo enchiladas",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "huevo estrellado",
+      "term_norm": "huevo estrellado",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "huevo jamon",
+      "term_norm": "huevo jamon",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "huevo pollo",
+      "term_norm": "huevo pollo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "huevos ala",
+      "term_norm": "huevos ala",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "huevos gusto",
+      "term_norm": "huevos gusto",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "ingrediente",
+      "term_norm": "ingrediente",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar atotonilco"
+      ]
+    },
+    {
+      "term": "jamon huevo",
+      "term_norm": "jamon huevo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "lechera hershey",
+      "term_norm": "lechera hershey",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mar tierra",
+      "term_norm": "mar tierra",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "maracuya frutos",
+      "term_norm": "maracuya frutos",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "marinadas",
+      "term_norm": "marinadas",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "mole verde",
+      "term_norm": "mole verde",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "molletes",
+      "term_norm": "molletes",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "nuggets",
+      "term_norm": "nuggets",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "oaxaca queso",
+      "term_norm": "oaxaca queso",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "papas gajo",
+      "term_norm": "papas gajo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pico",
+      "term_norm": "pico",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "nonis fuente de sodas"
+      ]
+    },
+    {
+      "term": "pico gallo",
+      "term_norm": "pico gallo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pollo asado",
+      "term_norm": "pollo asado",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "pollo sopes",
+      "term_norm": "pollo sopes",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "rayado",
+      "term_norm": "rayado",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "carnitas el amiguito"
+      ]
+    },
+    {
+      "term": "rebanadas",
+      "term_norm": "rebanadas",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "red",
+      "term_norm": "red",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "fritalitas"
+      ]
+    },
+    {
+      "term": "relleno queso",
+      "term_norm": "relleno queso",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "rellenos",
+      "term_norm": "rellenos",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "roja queso",
+      "term_norm": "roja queso",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sal",
+      "term_norm": "sal",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "pescados y mariscos los arcos"
+      ]
+    },
+    {
+      "term": "salchicha huevo",
+      "term_norm": "salchicha huevo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "salsa roja",
+      "term_norm": "salsa roja",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sandwich pollo",
+      "term_norm": "sandwich pollo",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "servida",
+      "term_norm": "servida",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sobre",
+      "term_norm": "sobre",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sobre tortilla",
+      "term_norm": "sobre tortilla",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "sodas",
+      "term_norm": "sodas",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "tierra",
+      "term_norm": "tierra",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "toluquena",
+      "term_norm": "toluquena",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "super tortas"
+      ]
+    },
+    {
+      "term": "topping",
+      "term_norm": "topping",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "desayunos gahory"
+      ]
+    },
+    {
+      "term": "torta carnitas",
+      "term_norm": "torta carnitas",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "tortila",
+      "term_norm": "tortila",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": [
+        "eii mar conejos"
+      ]
+    },
+    {
+      "term": "tortilla maiz",
+      "term_norm": "tortilla maiz",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "vainilla avellana",
+      "term_norm": "vainilla avellana",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "verde crema",
+      "term_norm": "verde crema",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    },
+    {
+      "term": "verduras",
+      "term_norm": "verduras",
+      "total_mentions": 2,
+      "businesses": 2,
+      "kind": "tag",
+      "already_label": false,
+      "examples_businesses": []
+    }
+  ]
+}

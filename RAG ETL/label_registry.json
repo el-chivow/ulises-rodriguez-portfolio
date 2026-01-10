@@ -1,0 +1,130 @@
+{
+  "created_at": "2025-12-19T22:22:24.789398Z",
+  "labels_oficiales": [
+    "alcohol",
+    "antojitos",
+    "bebidas",
+    "bistec",
+    "cafeteria",
+    "carne",
+    "cebolla",
+    "chilaquiles",
+    "crema",
+    "desayunos",
+    "hamburguesas",
+    "huevo",
+    "jamon",
+    "lechuga",
+    "longaniza",
+    "mariscos",
+    "oaxaca",
+    "papas",
+    "pina",
+    "pizza",
+    "pollo",
+    "postres",
+    "queso",
+    "salsa",
+    "tacos",
+    "verde"
+  ],
+  "auto_promoted": [
+    {
+      "label": "queso",
+      "businesses": 17,
+      "total_mentions": 96,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "cebolla",
+      "businesses": 15,
+      "total_mentions": 73,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "salsa",
+      "businesses": 13,
+      "total_mentions": 76,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "carne",
+      "businesses": 12,
+      "total_mentions": 36,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "pollo",
+      "businesses": 11,
+      "total_mentions": 89,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "verde",
+      "businesses": 11,
+      "total_mentions": 38,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "papas",
+      "businesses": 11,
+      "total_mentions": 35,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "lechuga",
+      "businesses": 10,
+      "total_mentions": 29,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "huevo",
+      "businesses": 9,
+      "total_mentions": 51,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "bistec",
+      "businesses": 9,
+      "total_mentions": 43,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "pina",
+      "businesses": 9,
+      "total_mentions": 36,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "crema",
+      "businesses": 9,
+      "total_mentions": 28,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "jamon",
+      "businesses": 8,
+      "total_mentions": 36,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "chilaquiles",
+      "businesses": 8,
+      "total_mentions": 34,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "oaxaca",
+      "businesses": 8,
+      "total_mentions": 30,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "label": "longaniza",
+      "businesses": 8,
+      "total_mentions": 24,
+      "promoted_at": "2025-12-19T22:22:24.847453Z"
+    }
+  ],
+  "notes": "labels_oficiales se usa para filtros y UI; LABEL_RULES sigue siendo tu clasificador por keywords."
+}
