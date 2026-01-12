@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-09T21:38:08.089927Z",
+  "generated_at": "2026-01-12T22:16:41.878985Z",
   "min_businesses_for_tag": 2,
   "min_businesses_for_label": 5,
   "auto_promote_label": true,
@@ -13,8 +13,8 @@
       "already_label": true,
       "examples_businesses": [
         "tacos los licenciados",
-        "desayunos gahory",
-        "michi laquil"
+        "hamburguesas el guero",
+        "la chilaqueria"
       ]
     },
     {
@@ -26,7 +26,8 @@
       "already_label": true,
       "examples_businesses": [
         "tacos los licenciados",
-        "la chilaqueria"
+        "desayunos gahory",
+        "michi laquil"
       ]
     },
     {
@@ -38,7 +39,8 @@
       "already_label": true,
       "examples_businesses": [
         "la chilaqueria",
-        "eii mar atotonilco"
+        "eii mar atotonilco",
+        "antojo"
       ]
     },
     {
@@ -48,7 +50,11 @@
       "businesses": 12,
       "kind": "tag",
       "already_label": true,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas",
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "pollo",
@@ -58,9 +64,8 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "desayunos gahory",
-        "hamburguesas el guero",
-        "michi laquil"
+        "comedor dona carmen",
+        "antojitos fuentes"
       ]
     },
     {
@@ -85,7 +90,7 @@
       "examples_businesses": [
         "pizza central",
         "desayunos gahory",
-        "nonis fuente de sodas"
+        "hamburguesas el guero"
       ]
     },
     {
@@ -96,9 +101,9 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "hamburguesas el guero",
-        "antojitos fuentes",
-        "antojo"
+        "desayunos gahory",
+        "michi laquil",
+        "jacalito la pulcata"
       ]
     },
     {
@@ -109,9 +114,8 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "desayunos gahory",
-        "michi laquil",
-        "nonis fuente de sodas"
+        "super tortas",
+        "antojitos fuentes"
       ]
     },
     {
@@ -122,9 +126,9 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "tacos los licenciados",
         "desayunos gahory",
-        "nonis fuente de sodas"
+        "nonis fuente de sodas",
+        "tacos jessy"
       ]
     },
     {
@@ -135,7 +139,9 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "eii mar atotonilco"
+        "super tortas",
+        "eii mar atotonilco",
+        "house of jochos"
       ]
     },
     {
@@ -146,9 +152,7 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "expresso central",
-        "la chilaqueria",
-        "carnitas el amiguito"
+        "la chilaqueria"
       ]
     },
     {
@@ -158,7 +162,10 @@
       "businesses": 9,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "antojitos fuentes",
+        "house of jochos"
+      ]
     },
     {
       "term": "jamon",
@@ -167,7 +174,11 @@
       "businesses": 8,
       "kind": "tag",
       "already_label": true,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "super tortas",
+        "fritalitas"
+      ]
     },
     {
       "term": "chilaquiles",
@@ -177,6 +188,7 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
+        "michi laquil",
         "la chilaqueria"
       ]
     },
@@ -187,7 +199,11 @@
       "businesses": 8,
       "kind": "tag",
       "already_label": true,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "michi laquil",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "longaniza",
@@ -209,9 +225,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "expresso central",
-        "la casa rooster",
-        "antojo"
+        "la casa rooster"
       ]
     },
     {
@@ -247,9 +261,7 @@
       "businesses": 7,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": [
-        "antojitos fuentes"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "jitomate",
@@ -269,8 +281,7 @@
       "already_label": false,
       "examples_businesses": [
         "comedor dona carmen",
-        "la chilaqueria",
-        "fritalitas"
+        "la chilaqueria"
       ]
     },
     {
@@ -280,11 +291,7 @@
       "businesses": 7,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": [
-        "pizza central",
-        "hamburguesas el guero",
-        "house of jochos"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "salsa verde",
@@ -293,7 +300,11 @@
       "businesses": 7,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil",
+        "la barranca"
+      ]
     },
     {
       "term": "queso oaxaca",
@@ -302,7 +313,11 @@
       "businesses": 7,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "michi laquil",
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "frijoles",
@@ -311,10 +326,7 @@
       "businesses": 7,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": [
-        "carnitas el amiguito",
-        "anjitos mexicanos dona bella"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "tacos",
@@ -325,8 +337,7 @@
       "already_label": true,
       "examples_businesses": [
         "tacos los licenciados",
-        "tacos jessy",
-        "carnitas el amiguito"
+        "tacos jessy"
       ]
     },
     {
@@ -338,8 +349,7 @@
       "already_label": false,
       "examples_businesses": [
         "eii mar atotonilco",
-        "la casa rooster",
-        "fritalitas"
+        "la casa rooster"
       ]
     },
     {
@@ -351,8 +361,8 @@
       "already_label": false,
       "examples_businesses": [
         "hamburguesas el guero",
-        "jacalito la pulcata",
-        "la casa rooster"
+        "la casa rooster",
+        "house of jochos"
       ]
     },
     {
@@ -363,7 +373,8 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "hamburguesas el guero"
+        "hamburguesas el guero",
+        "fritalitas"
       ]
     },
     {
@@ -387,9 +398,8 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "michi laquil",
         "la chilaqueria",
-        "meraki cafe"
+        "carnitas el amiguito"
       ]
     },
     {
@@ -399,7 +409,11 @@
       "businesses": 6,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "carnitas el amiguito",
+        "house of jochos",
+        "fritalitas"
+      ]
     },
     {
       "term": "pollo huevo",
@@ -408,7 +422,11 @@
       "businesses": 6,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil",
+        "la barranca"
+      ]
     },
     {
       "term": "asada",
@@ -438,7 +456,11 @@
       "businesses": 6,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos los licenciados",
+        "pizza central",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "fresa",
@@ -447,9 +469,7 @@
       "businesses": 6,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": [
-        "expresso central"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "mexicana",
@@ -458,9 +478,7 @@
       "businesses": 6,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": [
-        "pizza central"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "roja",
@@ -480,11 +498,7 @@
       "businesses": 6,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": [
-        "hamburguesas el guero",
-        "house of jochos",
-        "fritalitas"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "cerdo",
@@ -495,7 +509,8 @@
       "already_label": false,
       "examples_businesses": [
         "comedor dona carmen",
-        "la chilaqueria"
+        "la chilaqueria",
+        "house of jochos"
       ]
     },
     {
@@ -506,9 +521,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "desayunos gahory",
-        "nonis fuente de sodas",
-        "la barranca"
+        "la chilaqueria"
       ]
     },
     {
@@ -520,8 +533,8 @@
       "already_label": false,
       "examples_businesses": [
         "pizza central",
-        "michi laquil",
-        "nonis fuente de sodas"
+        "super tortas",
+        "fritalitas"
       ]
     },
     {
@@ -532,9 +545,8 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "desayunos gahory",
-        "la chilaqueria",
-        "pescados y mariscos los arcos"
+        "hamburguesas el guero",
+        "la chilaqueria"
       ]
     },
     {
@@ -557,7 +569,6 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "desayunos gahory",
         "comedor dona carmen"
       ]
     },
@@ -568,7 +579,11 @@
       "businesses": 5,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "la casa rooster",
+        "house of jochos"
+      ]
     },
     {
       "term": "sopes",
@@ -578,9 +593,9 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "la barranca",
-        "jacalito la pulcata",
-        "antojitos fuentes"
+        "antojitos fuentes",
+        "carnitas el amiguito",
+        "anjitos mexicanos dona bella"
       ]
     },
     {
@@ -590,9 +605,7 @@
       "businesses": 5,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": [
-        "carnitas el amiguito"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "jitomate cebolla",
@@ -601,7 +614,11 @@
       "businesses": 5,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "michi laquil",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "fritas",
@@ -620,9 +637,7 @@
       "kind": "label",
       "already_label": false,
       "examples_businesses": [
-        "tacos los licenciados",
-        "pizza central",
-        "hamburguesas el guero"
+        "pizza central"
       ]
     },
     {
@@ -632,7 +647,11 @@
       "businesses": 5,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "la barranca",
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "sandwich",
@@ -661,8 +680,8 @@
       "already_label": false,
       "examples_businesses": [
         "hamburguesas el guero",
-        "michi laquil",
-        "super tortas"
+        "super tortas",
+        "carnitas el amiguito"
       ]
     },
     {
@@ -672,7 +691,11 @@
       "businesses": 5,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "limon",
@@ -712,9 +735,7 @@
       "businesses": 5,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": [
-        "antojitos fuentes"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "asado",
@@ -725,8 +746,7 @@
       "already_label": false,
       "examples_businesses": [
         "hamburguesas el guero",
-        "nonis fuente de sodas",
-        "la barranca"
+        "comedor dona carmen"
       ]
     },
     {
@@ -736,7 +756,11 @@
       "businesses": 5,
       "kind": "label",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos los licenciados",
+        "meraki cafe",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "cafe",
@@ -757,8 +781,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "eii mar atotonilco",
-        "la casa rooster"
+        "eii mar atotonilco"
       ]
     },
     {
@@ -797,7 +820,10 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "anjitos mexicanos dona bella",
+        "fritalitas"
+      ]
     },
     {
       "term": "huevos",
@@ -806,7 +832,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "pastor",
@@ -816,6 +846,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
+        "pizza central",
         "tacos jessy"
       ]
     },
@@ -848,11 +879,7 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "hamburguesas el guero",
-        "meraki cafe",
-        "house of jochos"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "trozos",
@@ -870,7 +897,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la casa rooster",
+        "meraki cafe",
+        "house of jochos"
+      ]
     },
     {
       "term": "pechuga pollo",
@@ -879,7 +910,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "la barranca",
+        "comedor dona carmen"
+      ]
     },
     {
       "term": "pancita",
@@ -889,7 +924,9 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "antojitos fuentes"
+        "antojitos fuentes",
+        "carnitas el amiguito",
+        "anjitos mexicanos dona bella"
       ]
     },
     {
@@ -899,7 +936,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "nonis fuente de sodas",
+        "la barranca"
+      ]
     },
     {
       "term": "lechuga jitomate",
@@ -908,7 +949,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "sabor",
@@ -929,7 +974,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil",
+        "la chilaqueria"
+      ]
     },
     {
       "term": "agua mineral",
@@ -938,7 +987,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "jacalito la pulcata",
+        "meraki cafe"
+      ]
     },
     {
       "term": "mineral",
@@ -948,7 +1001,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "jacalito la pulcata"
+        "drinks 24 7"
       ]
     },
     {
@@ -969,7 +1022,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil",
+        "house of jochos"
+      ]
     },
     {
       "term": "hamburguesa pollo",
@@ -978,7 +1035,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "mole",
@@ -988,8 +1049,9 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
+        "desayunos gahory",
         "michi laquil",
-        "jacalito la pulcata"
+        "nonis fuente de sodas"
       ]
     },
     {
@@ -999,7 +1061,9 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central"
+      ]
     },
     {
       "term": "pan",
@@ -1017,7 +1081,9 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "queso amarillo",
@@ -1026,7 +1092,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "michi laquil",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "rebanada",
@@ -1035,11 +1105,7 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "hamburguesas el guero",
-        "michi laquil",
-        "nonis fuente de sodas"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "banados",
@@ -1057,7 +1123,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "meraki cafe",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "carne res",
@@ -1066,7 +1136,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "meraki cafe",
+        "house of jochos"
+      ]
     },
     {
       "term": "entre",
@@ -1076,7 +1150,9 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "tacos jessy"
+        "nonis fuente de sodas",
+        "tacos jessy",
+        "jacalito la pulcata"
       ]
     },
     {
@@ -1086,7 +1162,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "jacalito la pulcata",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "solo",
@@ -1116,7 +1196,9 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "desayunos gahory",
+        "expresso central",
+        "nonis fuente de sodas"
       ]
     },
     {
@@ -1126,7 +1208,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "la barranca",
+        "antojitos fuentes"
+      ]
     },
     {
       "term": "tortilla",
@@ -1148,7 +1234,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "la chilaqueria",
+        "meraki cafe"
+      ]
     },
     {
       "term": "encebollado",
@@ -1157,11 +1247,7 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "desayunos gahory",
-        "nonis fuente de sodas",
-        "la barranca"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "mar",
@@ -1181,7 +1267,11 @@
       "businesses": 4,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "nonis fuente de sodas",
+        "la barranca"
+      ]
     },
     {
       "term": "desayunos",
@@ -1191,7 +1281,6 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "michi laquil",
         "la chilaqueria"
       ]
     },
@@ -1212,9 +1301,7 @@
       "kind": "tag",
       "already_label": true,
       "examples_businesses": [
-        "pizza central",
-        "nonis fuente de sodas",
-        "meraki cafe"
+        "pizza central"
       ]
     },
     {
@@ -1224,7 +1311,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la casa rooster",
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "birria",
@@ -1245,7 +1336,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "pescados y mariscos los arcos",
+        "fritalitas"
+      ]
     },
     {
       "term": "arroz",
@@ -1263,11 +1358,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": true,
-      "examples_businesses": [
-        "pizza central",
-        "hamburguesas el guero",
-        "antojo"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "nopales",
@@ -1276,7 +1367,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "jacalito la pulcata",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "pierna",
@@ -1285,9 +1380,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "super tortas"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "alitas",
@@ -1307,6 +1400,7 @@
       "already_label": false,
       "examples_businesses": [
         "la chilaqueria",
+        "pescados y mariscos los arcos",
         "carnitas el amiguito"
       ]
     },
@@ -1347,7 +1441,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "jacalito la pulcata",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "rojos",
@@ -1367,7 +1465,9 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "gratinado",
@@ -1376,9 +1476,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "carnitas el amiguito"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "tequila",
@@ -1400,7 +1498,8 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "hamburguesas el guero"
+        "hamburguesas el guero",
+        "antojo"
       ]
     },
     {
@@ -1419,7 +1518,10 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "michi laquil"
+      ]
     },
     {
       "term": "boneless",
@@ -1428,7 +1530,9 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la casa rooster"
+      ]
     },
     {
       "term": "crema queso",
@@ -1437,7 +1541,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "meraki cafe",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "crepas",
@@ -1455,7 +1563,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "meraki cafe",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "frappe",
@@ -1464,11 +1576,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "expresso central",
-        "michi laquil",
-        "meraki cafe"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "ingredientes",
@@ -1477,9 +1585,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "la barranca"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "todo",
@@ -1489,9 +1595,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "desayunos gahory",
-        "antojo",
-        "pescados y mariscos los arcos"
+        "antojo"
       ]
     },
     {
@@ -1522,6 +1626,8 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
+        "desayunos gahory",
+        "la barranca",
         "comedor dona carmen"
       ]
     },
@@ -1550,7 +1656,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "hamburguesas el guero",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "nutella",
@@ -1560,7 +1670,9 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "expresso central",
+        "nonis fuente de sodas",
+        "meraki cafe"
       ]
     },
     {
@@ -1570,9 +1682,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "house of jochos"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "acompanadas",
@@ -1590,10 +1700,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "hamburguesas el guero",
-        "fritalitas"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "banadas",
@@ -1602,7 +1709,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "bombones",
@@ -1631,7 +1742,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "meraki cafe",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "ceviches",
@@ -1660,10 +1775,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "carnitas el amiguito",
-        "anjitos mexicanos dona bella"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "gusto",
@@ -1681,10 +1793,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "vinateria la jalisco",
-        "drinks 24 7"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "mermelada",
@@ -1713,7 +1822,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "antojitos fuentes",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "pina jamon",
@@ -1722,7 +1835,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "super tortas",
+        "fritalitas"
+      ]
     },
     {
       "term": "rellenas",
@@ -1731,11 +1848,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "michi laquil",
-        "jacalito la pulcata",
-        "pescados y mariscos los arcos"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "taro",
@@ -1791,9 +1904,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "house of jochos"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "hamburguesa arrachera",
@@ -1802,7 +1913,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "hershey",
@@ -1811,9 +1926,7 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "expresso central"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "loganiza",
@@ -1835,7 +1948,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas",
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "papas fritas",
@@ -1844,7 +1961,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la casa rooster",
+        "house of jochos",
+        "fritalitas"
+      ]
     },
     {
       "term": "pollo empanizada",
@@ -1853,7 +1974,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "la barranca",
+        "comedor dona carmen"
+      ]
     },
     {
       "term": "sope",
@@ -1862,7 +1987,9 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "antojitos fuentes"
+      ]
     },
     {
       "term": "variedad",
@@ -1871,7 +1998,9 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos los licenciados"
+      ]
     },
     {
       "term": "yogurt",
@@ -1889,7 +2018,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "nonis fuente de sodas",
+        "la barranca"
+      ]
     },
     {
       "term": "bistec tacos",
@@ -1898,7 +2031,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos los licenciados",
+        "tacos jessy",
+        "la barranca"
+      ]
     },
     {
       "term": "chico",
@@ -1907,7 +2044,9 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "antojitos fuentes"
+      ]
     },
     {
       "term": "club",
@@ -1916,7 +2055,10 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "club sandwich",
@@ -1925,7 +2067,11 @@
       "businesses": 3,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "deliciosas",
@@ -1982,9 +2128,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "la barranca"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "quesillo",
@@ -2005,7 +2149,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "pizza central"
+      ]
     },
     {
       "term": "antojitos",
@@ -2014,7 +2160,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": true,
-      "examples_businesses": []
+      "examples_businesses": [
+        "antojitos fuentes"
+      ]
     },
     {
       "term": "eiimar",
@@ -2036,8 +2184,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "comedor dona carmen",
-        "anjitos mexicanos dona bella"
+        "comedor dona carmen"
       ]
     },
     {
@@ -2058,7 +2205,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la casa rooster",
+        "meraki cafe"
+      ]
     },
     {
       "term": "zanahoria",
@@ -2105,7 +2255,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "pepperoni",
@@ -2137,7 +2290,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "carnitas jawy",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "chistorra",
@@ -2147,7 +2303,6 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "tacos los licenciados",
         "pizza central"
       ]
     },
@@ -2158,10 +2313,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "jacalito la pulcata",
-        "meraki cafe"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "frutos rojos",
@@ -2170,7 +2322,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "meraki cafe"
+      ]
     },
     {
       "term": "oaxaca manchego",
@@ -2179,7 +2334,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "pescados y mariscos los arcos",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "bufalo",
@@ -2188,7 +2346,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "fritalitas"
+      ]
     },
     {
       "term": "catsup mostaza",
@@ -2197,7 +2357,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "fritalitas"
+      ]
     },
     {
       "term": "mayonesa catsup",
@@ -2206,7 +2369,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "fritalitas"
+      ]
     },
     {
       "term": "pepino zanahoria",
@@ -2215,7 +2381,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "pescados y mariscos los arcos",
+        "fritalitas"
+      ]
     },
     {
       "term": "ranch",
@@ -2224,7 +2393,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "argentino",
@@ -2245,7 +2417,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "bufalo mango",
@@ -2254,7 +2429,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "cebolla cilantro",
@@ -2263,7 +2441,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "pescados y mariscos los arcos",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "chicharron prensado",
@@ -2272,7 +2453,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "chiles",
@@ -2281,7 +2465,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero"
+      ]
     },
     {
       "term": "chorizo argentino",
@@ -2290,7 +2476,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos los licenciados",
+        "pizza central"
+      ]
     },
     {
       "term": "cilantro aguacate",
@@ -2299,7 +2488,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la chilaqueria",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "costillas",
@@ -2329,7 +2521,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "house of jochos"
+      ]
     },
     {
       "term": "dorados",
@@ -2338,9 +2533,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "carnitas el amiguito"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "jamon queso",
@@ -2349,7 +2542,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "fritalitas"
+      ]
     },
     {
       "term": "lemon",
@@ -2368,7 +2564,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "la barranca"
+        "anjitos mexicanos dona bella"
       ]
     },
     {
@@ -2378,7 +2574,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "americano",
@@ -2388,7 +2587,8 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "expresso central",
+        "meraki cafe"
       ]
     },
     {
@@ -2398,7 +2598,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos los licenciados",
+        "la barranca"
+      ]
     },
     {
       "term": "cazuela",
@@ -2407,7 +2610,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "chiles vinagre",
@@ -2416,7 +2622,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "meraki cafe"
+      ]
     },
     {
       "term": "conejo",
@@ -2425,10 +2634,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "la barranca",
-        "jacalito la pulcata"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "espresso",
@@ -2437,9 +2643,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "expresso central"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "frijolitos",
@@ -2475,7 +2679,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "salsa elige",
@@ -2484,7 +2691,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "anjitos mexicanos dona bella",
+        "fritalitas"
+      ]
     },
     {
       "term": "taco bistec",
@@ -2493,7 +2703,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos los licenciados",
+        "tacos jessy"
+      ]
     },
     {
       "term": "tiras",
@@ -2511,9 +2724,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "antojitos fuentes"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "vinagre",
@@ -2540,7 +2751,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "bebida cafe",
@@ -2549,7 +2763,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "meraki cafe"
+      ]
     },
     {
       "term": "burger",
@@ -2558,7 +2775,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "antojo",
+        "house of jochos"
+      ]
     },
     {
       "term": "capuccino",
@@ -2578,7 +2798,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la chilaqueria",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "cerveza",
@@ -2588,8 +2811,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "vinateria la jalisco",
-        "la barranca"
+        "vinateria la jalisco"
       ]
     },
     {
@@ -2608,7 +2830,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "coctel",
@@ -2617,10 +2841,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "nonis fuente de sodas",
-        "la barranca"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "corona",
@@ -2629,7 +2850,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "la barranca"
+      ]
     },
     {
       "term": "crema cebolla",
@@ -2638,7 +2862,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "la chilaqueria"
+      ]
     },
     {
       "term": "cuatro",
@@ -2647,7 +2874,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "vinateria la jalisco"
+      ]
     },
     {
       "term": "gratinados",
@@ -2656,10 +2886,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "desayunos gahory",
-        "pescados y mariscos los arcos"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "huevo sopes",
@@ -2668,7 +2895,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "jugo naranja",
@@ -2677,7 +2907,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "jugosa",
@@ -2713,7 +2946,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central"
+      ]
     },
     {
       "term": "mezcla",
@@ -2742,7 +2977,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "comedor dona carmen",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "pepperoni hawaiana",
@@ -2751,7 +2989,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "pizza central",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "queso crema",
@@ -2760,7 +3001,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "la chilaqueria"
+      ]
     },
     {
       "term": "revueltos",
@@ -2769,9 +3013,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "michi laquil"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "sopes pollo",
@@ -2780,7 +3022,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "verde lechuga",
@@ -2789,7 +3034,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "zanahoria pepino",
@@ -2798,7 +3046,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "pescados y mariscos los arcos",
+        "fritalitas"
+      ]
     },
     {
       "term": "acompanada",
@@ -2828,7 +3079,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central"
+      ]
     },
     {
       "term": "banadas salsa",
@@ -2837,7 +3090,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "botellas",
@@ -2867,7 +3123,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "meraki cafe"
+      ]
     },
     {
       "term": "cafeteria",
@@ -2876,7 +3135,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": true,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "meraki cafe"
+      ]
     },
     {
       "term": "caramel",
@@ -2885,7 +3147,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "meraki cafe"
+      ]
     },
     {
       "term": "caramelo",
@@ -2894,7 +3159,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central"
+      ]
     },
     {
       "term": "carne pollo",
@@ -2903,7 +3170,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "carnes frias",
@@ -2912,7 +3182,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "pizza central",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "cazuela mariscos",
@@ -2921,7 +3194,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "ceviches aguachiles",
@@ -2930,7 +3206,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "eii mar atotonilco",
+        "eii mar conejos"
+      ]
     },
     {
       "term": "crema cacahuate",
@@ -2939,7 +3218,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "cuervo",
@@ -2987,7 +3269,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos jessy",
+        "antojitos fuentes"
+      ]
     },
     {
       "term": "espinaca",
@@ -3016,7 +3301,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "hot dogs",
@@ -3025,7 +3313,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "house of jochos"
+      ]
     },
     {
       "term": "huevo chorizo",
@@ -3034,7 +3325,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "super tortas"
+      ]
     },
     {
       "term": "jalapeno",
@@ -3043,7 +3337,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "pizza central",
+        "house of jochos"
+      ]
     },
     {
       "term": "jose cuervo",
@@ -3052,7 +3349,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "vinateria la jalisco",
+        "drinks 24 7"
+      ]
     },
     {
       "term": "kiwi",
@@ -3061,7 +3361,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "meraki cafe"
+      ]
     },
     {
       "term": "limones",
@@ -3097,7 +3400,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory"
+      ]
     },
     {
       "term": "milanesa torta",
@@ -3106,7 +3411,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil"
+      ]
     },
     {
       "term": "mostaza catsup",
@@ -3115,7 +3423,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "house of jochos"
+      ]
     },
     {
       "term": "nopales sopes",
@@ -3124,7 +3435,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "otros",
@@ -3134,8 +3448,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "tacos jessy",
-        "antojitos fuentes"
+        "tacos jessy"
       ]
     },
     {
@@ -3174,7 +3487,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "pescados y mariscos los arcos",
+        "house of jochos"
+      ]
     },
     {
       "term": "rojas",
@@ -3192,7 +3508,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "eii mar conejos"
+      ]
     },
     {
       "term": "torta milanesa",
@@ -3201,7 +3520,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "tostadas",
@@ -3255,7 +3577,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "aderezo ranch",
@@ -3264,7 +3589,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "ajo",
@@ -3273,7 +3601,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "ala",
@@ -3291,7 +3622,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "la barranca"
+      ]
     },
     {
       "term": "cafe espresso",
@@ -3300,7 +3634,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "meraki cafe"
+      ]
     },
     {
       "term": "cajeta nutella",
@@ -3309,7 +3646,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "campechanos",
@@ -3329,7 +3669,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "meraki cafe"
+      ]
     },
     {
       "term": "carne asada",
@@ -3338,7 +3681,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos los licenciados",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "cecina",
@@ -3348,8 +3694,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "tacos los licenciados",
-        "jacalito la pulcata"
+        "tacos los licenciados"
       ]
     },
     {
@@ -3368,7 +3713,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "la chilaqueria"
+      ]
     },
     {
       "term": "chilaquiles desayunos",
@@ -3377,7 +3725,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "la chilaqueria"
+      ]
     },
     {
       "term": "coca",
@@ -3395,7 +3746,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "meraki cafe"
+      ]
     },
     {
       "term": "cola",
@@ -3422,7 +3776,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "consome",
@@ -3442,7 +3799,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "antojitos fuentes",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "durazno platano",
@@ -3451,7 +3811,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "empanizado",
@@ -3471,7 +3834,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "estrellados",
@@ -3490,7 +3856,8 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "comedor dona carmen"
+        "comedor dona carmen",
+        "pescados y mariscos los arcos"
       ]
     },
     {
@@ -3500,7 +3867,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "meraki cafe"
+      ]
     },
     {
       "term": "fresa durazno",
@@ -3509,7 +3879,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "fresa platano",
@@ -3518,7 +3891,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "la barranca"
+      ]
     },
     {
       "term": "frijoles conejo",
@@ -3527,7 +3903,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "frijoles totopos",
@@ -3536,7 +3915,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "galleta",
@@ -3546,7 +3928,8 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "expresso central"
+        "expresso central",
+        "meraki cafe"
       ]
     },
     {
@@ -3556,10 +3939,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "michi laquil",
-        "nonis fuente de sodas"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "gordita",
@@ -3608,7 +3988,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "meraki cafe"
+      ]
     },
     {
       "term": "lechuga cebolla",
@@ -3617,7 +4000,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "meraki cafe"
+      ]
     },
     {
       "term": "macchiato",
@@ -3646,7 +4032,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la casa rooster",
+        "fritalitas"
+      ]
     },
     {
       "term": "mazapan",
@@ -3664,7 +4053,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "mollejas",
@@ -3720,7 +4112,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "picante",
@@ -3738,7 +4132,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "super tortas"
+      ]
     },
     {
       "term": "pollo encebollada",
@@ -3747,7 +4144,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "comedor dona carmen"
+      ]
     },
     {
       "term": "pollo mexicana",
@@ -3756,7 +4156,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "la barranca"
+      ]
     },
     {
       "term": "pollo queso",
@@ -3765,7 +4168,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "meraki cafe"
+      ]
     },
     {
       "term": "quelites",
@@ -3774,9 +4180,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "anjitos mexicanos dona bella"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "queso fundido",
@@ -3785,7 +4189,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "antojo"
+      ]
     },
     {
       "term": "queso lechuga",
@@ -3794,7 +4201,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "meraki cafe"
+      ]
     },
     {
       "term": "rebanada pastel",
@@ -3803,7 +4213,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "meraki cafe"
+      ]
     },
     {
       "term": "salados",
@@ -3821,7 +4234,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "sandwich jamon",
@@ -3830,7 +4246,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "sopa",
@@ -3848,7 +4267,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "suizas",
@@ -3857,7 +4279,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "taco carnitas",
@@ -3866,7 +4291,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "carnitas jawy",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "tajin",
@@ -3893,7 +4321,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "torta chilaquiles",
@@ -3902,7 +4332,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "valentina",
@@ -3920,9 +4353,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "la chilaqueria"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "variedades chilaquiles",
@@ -3931,7 +4362,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "la chilaqueria"
+      ]
     },
     {
       "term": "acompanados aderezo",
@@ -3940,7 +4374,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "acompanados frijoles",
@@ -3949,7 +4386,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "ala mexicana",
@@ -3958,7 +4398,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil"
+      ]
     },
     {
       "term": "argentina",
@@ -3968,7 +4411,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
-        "super tortas"
+        "desayunos gahory"
       ]
     },
     {
@@ -3987,7 +4430,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "fritalitas"
+      ]
     },
     {
       "term": "asada pechuga",
@@ -3996,7 +4442,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "la barranca"
+      ]
     },
     {
       "term": "boing",
@@ -4025,7 +4474,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "meraki cafe"
+      ]
     },
     {
       "term": "carnitas taco",
@@ -4034,7 +4486,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "carnitas jawy",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "cebolla aguacate",
@@ -4043,7 +4498,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "cebolla jitomate",
@@ -4052,7 +4510,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "chile guajillo",
@@ -4061,7 +4522,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "chilito",
@@ -4070,9 +4534,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "tacos los licenciados"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "chocolate chocolate",
@@ -4081,7 +4543,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "meraki cafe"
+      ]
     },
     {
       "term": "cremosa",
@@ -4099,7 +4564,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "house of jochos"
+      ]
     },
     {
       "term": "deliciosos",
@@ -4117,7 +4585,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "la chilaqueria"
+      ]
     },
     {
       "term": "disponible solo",
@@ -4126,17 +4597,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
-    },
-    {
-      "term": "disponibles",
-      "term_norm": "disponibles",
-      "total_mentions": 2,
-      "businesses": 2,
-      "kind": "tag",
-      "already_label": false,
       "examples_businesses": [
-        "fritalitas"
+        "la barranca",
+        "antojitos fuentes"
       ]
     },
     {
@@ -4158,7 +4621,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "eii mar atotonilco",
+        "eii mar conejos"
+      ]
     },
     {
       "term": "estrellado",
@@ -4167,7 +4633,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "meraki cafe"
+      ]
     },
     {
       "term": "extra",
@@ -4177,6 +4646,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
+        "vinateria la jalisco",
         "eii mar atotonilco"
       ]
     },
@@ -4187,7 +4657,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "frito cebolla",
@@ -4196,7 +4669,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "gajo",
@@ -4214,10 +4690,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "nonis fuente de sodas",
-        "meraki cafe"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "gratin",
@@ -4253,7 +4726,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "hamburguesa hawaiana",
@@ -4262,7 +4738,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "fritalitas"
+      ]
     },
     {
       "term": "harina",
@@ -4280,7 +4759,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "la barranca"
+      ]
     },
     {
       "term": "huevo estrellado",
@@ -4289,7 +4771,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "meraki cafe"
+      ]
     },
     {
       "term": "huevo jamon",
@@ -4298,7 +4783,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "la barranca"
+      ]
     },
     {
       "term": "huevo pollo",
@@ -4307,7 +4795,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "antojitos fuentes"
+      ]
     },
     {
       "term": "huevos ala",
@@ -4316,7 +4807,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil"
+      ]
     },
     {
       "term": "huevos gusto",
@@ -4325,7 +4819,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "la barranca"
+      ]
     },
     {
       "term": "ingrediente",
@@ -4345,7 +4842,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "super tortas"
+      ]
     },
     {
       "term": "lechera hershey",
@@ -4354,7 +4854,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "mar tierra",
@@ -4363,7 +4866,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "pescados y mariscos los arcos"
+      ]
     },
     {
       "term": "maracuya frutos",
@@ -4372,7 +4878,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "jacalito la pulcata",
+        "meraki cafe"
+      ]
     },
     {
       "term": "marinadas",
@@ -4381,7 +4890,9 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "fritalitas"
+      ]
     },
     {
       "term": "mole verde",
@@ -4390,7 +4901,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "jacalito la pulcata"
+      ]
     },
     {
       "term": "molletes",
@@ -4417,7 +4931,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "papas gajo",
@@ -4426,7 +4943,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "meraki cafe",
+        "house of jochos"
+      ]
     },
     {
       "term": "pico",
@@ -4435,9 +4955,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "nonis fuente de sodas"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "pico gallo",
@@ -4446,7 +4964,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "nonis fuente de sodas",
+        "meraki cafe"
+      ]
     },
     {
       "term": "pollo asado",
@@ -4455,7 +4976,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "hamburguesas el guero",
+        "meraki cafe"
+      ]
     },
     {
       "term": "pollo sopes",
@@ -4464,7 +4988,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "rayado",
@@ -4474,6 +5001,7 @@
       "kind": "tag",
       "already_label": false,
       "examples_businesses": [
+        "meraki cafe",
         "carnitas el amiguito"
       ]
     },
@@ -4493,10 +5021,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "vinateria la jalisco",
-        "fritalitas"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "relleno queso",
@@ -4505,7 +5030,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "tacos los licenciados",
+        "house of jochos"
+      ]
     },
     {
       "term": "rellenos",
@@ -4523,7 +5051,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "anjitos mexicanos dona bella"
+      ]
     },
     {
       "term": "sal",
@@ -4532,10 +5063,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "jacalito la pulcata",
-        "pescados y mariscos los arcos"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "salchicha huevo",
@@ -4544,7 +5072,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "la barranca",
+        "super tortas"
+      ]
     },
     {
       "term": "salsa roja",
@@ -4553,7 +5084,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "sandwich pollo",
@@ -4562,7 +5096,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "nonis fuente de sodas"
+      ]
     },
     {
       "term": "servida",
@@ -4580,7 +5117,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil"
+      ]
     },
     {
       "term": "sobre tortilla",
@@ -4589,7 +5129,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "desayunos gahory",
+        "michi laquil"
+      ]
     },
     {
       "term": "sodas",
@@ -4616,9 +5159,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "super tortas"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "topping",
@@ -4627,9 +5168,7 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": [
-        "desayunos gahory"
-      ]
+      "examples_businesses": []
     },
     {
       "term": "torta carnitas",
@@ -4638,7 +5177,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "carnitas jawy",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "tortila",
@@ -4658,7 +5200,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "vainilla avellana",
@@ -4667,7 +5212,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "expresso central",
+        "meraki cafe"
+      ]
     },
     {
       "term": "verde crema",
@@ -4676,7 +5224,10 @@
       "businesses": 2,
       "kind": "tag",
       "already_label": false,
-      "examples_businesses": []
+      "examples_businesses": [
+        "michi laquil",
+        "carnitas el amiguito"
+      ]
     },
     {
       "term": "verduras",

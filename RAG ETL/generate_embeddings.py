@@ -19,6 +19,7 @@ with open(INPUT_JSON, "r", encoding="utf-8") as f:
 
 print(f"Documentos cargados: {len(docs)}")
 
+
 # =========================
 # 3. Generar embeddings
 # =========================

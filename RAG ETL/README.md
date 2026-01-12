@@ -1,5 +1,7 @@
 # RAG Pipeline + Clasificador de Negocios por Tipo de Comida (DOBLEU)
 
+## Un motor de clasificación semántica incremental con memoria persistente y gobernanza, usado como preprocesador inteligente para RAG.
+
 Este repositorio implementa un **sistema de inteligencia comercial** para **DOBLEU**, combinando:
 
 1. **Pipeline de preparación de datos para RAG (Retrieval-Augmented Generation)**  
