@@ -1901,6 +1901,11 @@
         "nombre": "QUESA BIRRIA (EIIMAR)",
         "descripcion": "EMPALME DE TORTILA CON BIRRIA Y QUESO",
         "precio": "50.0"
+      },
+      {
+        "nombre": "BIRRIA RAMEN",
+        "descripcion": "BIRRIA CON RAMEN",
+        "precio": "90.0"
       }
     ]
   },

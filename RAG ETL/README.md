@@ -177,6 +177,30 @@ Proyecto en Python usando Jupyter Notebook para **inferir el tipo de comida** de
 - Señal adicional para ranking y recomendaciones
 - Base para futuros modelos híbridos (ML + RAG)
 
+#### Este proyecto tiene gobernanza segura
+
+
+Este sistema implementa gobernanza semántica segura a nivel plataforma mediante memoria persistente, evidencia cross-negocio y reglas de promoción controladas.
+
+Algunas decisiones locales (como la exclusión de ingredientes en resúmenes de productos) utilizan listas semilla intencionales, diseñadas para ser evolucionadas hacia gobernanza automática basada en evidencia global sin romper compatibilidad.
+
+- Memoria persistente (anti-amnesia)
+- Evidencia cross-negocio (no local)
+- Separación clara de responsabilidades semánticas
+- Gobernanza humana + automática (auditabilidad). (labels_pendientes.json)
+---
+Para is_product_like_term aplica gobernanza semántica basada en evidencia global
+de la plataforma. Un término se considera NO vendible si su comportamiento
+estadístico indica que funciona como ingrediente, atributo o modificador,
+no como entidad comercial independiente.
+
+La decisión se basa en:
+- frecuencia global
+- número de negocios
+- longitud léxica
+- estructura (unigram vs n-gram)
+
+Esto garantiza aprendizaje incremental, auditable y escalable.
 ---
 
 No subí el .env por obvias razones 

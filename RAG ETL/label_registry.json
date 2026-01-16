@@ -1,6 +1,7 @@
 {
   "created_at": "2025-12-19T22:22:24.789398Z",
   "labels_oficiales": [
+    "acompa",
     "alcohol",
     "antojitos",
     "bebidas",
@@ -124,7 +125,15 @@
       "businesses": 8,
       "total_mentions": 24,
       "promoted_at": "2025-12-19T22:22:24.847453Z"
+    },
+    {
+      "type": "label",
+      "value": "acompa",
+      "businesses": 8,
+      "total_mentions": 53,
+      "promoted_at": "2026-01-15T19:35:15.034003Z"
     }
   ],
-  "notes": "labels_oficiales se usa para filtros y UI; LABEL_RULES sigue siendo tu clasificador por keywords."
+  "notes": "labels_oficiales se usa para filtros y UI; LABEL_RULES sigue siendo tu clasificador por keywords.",
+  "tags_oficiales": []
 }
