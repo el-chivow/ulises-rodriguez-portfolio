@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "categoria_id": 1,
+    "nombre": "Abarrotes y Tienditas"
+  },
+  {
+    "id": 2,
+    "categoria_id": 1,
+    "nombre": "Tortillerías"
+  },
+  {
+    "id": 3,
+    "categoria_id": 1,
+    "nombre": "Carnicerías"
+  },
+  {
+    "id": 4,
+    "categoria_id": 1,
+    "nombre": "Panaderías"
+  },
+  {
+    "id": 5,
+    "categoria_id": 1,
+    "nombre": "Recaudo, fruterías y verdulerías"
+  },
+  {
+    "id": 6,
+    "categoria_id": 2,
+    "nombre": "Plomería"
+  },
+  {
+    "id": 7,
+    "categoria_id": 2,
+    "nombre": "Electricidad"
+  },
+  {
+    "id": 8,
+    "categoria_id": 2,
+    "nombre": "Carpintería"
+  },
+  {
+    "id": 9,
+    "categoria_id": 2,
+    "nombre": "Herrería"
+  },
+  {
+    "id": 10,
+    "categoria_id": 2,
+    "nombre": "Albañilería"
+  },
+  {
+    "id": 11,
+    "categoria_id": 3,
+    "nombre": "Farmacias"
+  },
+  {
+    "id": 12,
+    "categoria_id": 3,
+    "nombre": "Consultorios Médicos"
+  },
+  {
+    "id": 13,
+    "categoria_id": 3,
+    "nombre": "Dentistas"
+  },
+  {
+    "id": 14,
+    "categoria_id": 3,
+    "nombre": "Veterinarias"
+  },
+  {
+    "id": 15,
+    "categoria_id": 4,
+    "nombre": "Taller Mecánico"
+  },
+  {
+    "id": 16,
+    "categoria_id": 4,
+    "nombre": "Llanteras"
+  },
+  {
+    "id": 17,
+    "categoria_id": 4,
+    "nombre": "Transporte"
+  },
+  {
+    "id": 18,
+    "categoria_id": 5,
+    "nombre": "Papelerías"
+  },
+  {
+    "id": 19,
+    "categoria_id": 5,
+    "nombre": "Ciber o Internet"
+  },
+  {
+    "id": 20,
+    "categoria_id": 5,
+    "nombre": "Reparación de celulares"
+  },
+  {
+    "id": 21,
+    "categoria_id": 6,
+    "nombre": "Estéticas y barberías"
+  },
+  {
+    "id": 22,
+    "categoria_id": 6,
+    "nombre": "Costureras"
+  },
+  {
+    "id": 23,
+    "categoria_id": 6,
+    "nombre": "Servicios de limpieza"
+  },
+  {
+    "id": 24,
+    "categoria_id": 7,
+    "nombre": "Sonidos y DJ"
+  },
+  {
+    "id": 25,
+    "categoria_id": 7,
+    "nombre": "Renta de sillas y lonas"
+  },
+  {
+    "id": 26,
+    "categoria_id": 7,
+    "nombre": "Fotografía y video"
+  },
+  {
+    "id": 27,
+    "categoria_id": 8,
+    "nombre": "Ropa masculina"
+  },
+  {
+    "id": 28,
+    "categoria_id": 8,
+    "nombre": "Ropa femenina"
+  },
+  {
+    "id": 29,
+    "categoria_id": 8,
+    "nombre": "Zapaterías"
+  },
+  {
+    "id": 30,
+    "categoria_id": 8,
+    "nombre": "Accesorios"
+  },
+  {
+    "id": 31,
+    "categoria_id": 9,
+    "nombre": "Muebles"
+  },
+  {
+    "id": 32,
+    "categoria_id": 9,
+    "nombre": "Decoración"
+  },
+  {
+    "id": 33,
+    "categoria_id": 9,
+    "nombre": "Electrodomésticos"
+  },
+  {
+    "id": 34,
+    "categoria_id": 9,
+    "nombre": "Utensilios de cocina"
+  },
+  {
+    "id": 35,
+    "categoria_id": 10,
+    "nombre": "Venta de autos"
+  },
+  {
+    "id": 36,
+    "categoria_id": 10,
+    "nombre": "Accesorios para autos"
+  },
+  {
+    "id": 37,
+    "categoria_id": 10,
+    "nombre": "Servicios automotrices"
+  },
+  {
+    "id": 38,
+    "categoria_id": 11,
+    "nombre": "Venta de casas"
+  },
+  {
+    "id": 39,
+    "categoria_id": 11,
+    "nombre": "Alquiler de propiedades"
+  },
+  {
+    "id": 40,
+    "categoria_id": 11,
+    "nombre": "Servicios inmobiliarios"
+  },
+  {
+    "id": 41,
+    "categoria_id": 12,
+    "nombre": "Galerías de arte"
+  },
+  {
+    "id": 42,
+    "categoria_id": 12,
+    "nombre": "Librerías"
+  },
+  {
+    "id": 43,
+    "categoria_id": 12,
+    "nombre": "Teatros"
+  },
+  {
+    "id": 44,
+    "categoria_id": 13,
+    "nombre": "Gimnasios"
+  },
+  {
+    "id": 45,
+    "categoria_id": 13,
+    "nombre": "Equipos deportivos"
+  },
+  {
+    "id": 46,
+    "categoria_id": 13,
+    "nombre": "Centros recreativos"
+  },
+  {
+    "id": 47,
+    "categoria_id": 14,
+    "nombre": "Computadoras"
+  },
+  {
+    "id": 48,
+    "categoria_id": 14,
+    "nombre": "Televisores y pantallas"
+  },
+  {
+    "id": 49,
+    "categoria_id": 14,
+    "nombre": "Electrónica en general"
+  },
+  {
+    "id": 50,
+    "categoria_id": 1,
+    "nombre": "Comida preparada / Antojitos"
+  },
+  {
+    "id": 51,
+    "categoria_id": 15,
+    "nombre": "Serigrafia, boradados e imprenta"
+  },
+  {
+    "id": 52,
+    "categoria_id": 15,
+    "nombre": "Servicios contables (contador)"
+  },
+  {
+    "id": 53,
+    "categoria_id": 15,
+    "nombre": "Servicios legales (abogados)"
+  },
+  {
+    "id": 54,
+    "categoria_id": 3,
+    "nombre": "Psicología / Terapia"
+  },
+  {
+    "id": 55,
+    "categoria_id": 3,
+    "nombre": "Medicina general y cirugía"
+  },
+  {
+    "id": 56,
+    "categoria_id": 3,
+    "nombre": "Dermatología"
+  },
+  {
+    "id": 57,
+    "categoria_id": 3,
+    "nombre": "Laboratorios clínicos / Análisis"
+  },
+  {
+    "id": 58,
+    "categoria_id": 6,
+    "nombre": "Limpieza de oficinas"
+  },
+  {
+    "id": 59,
+    "categoria_id": 6,
+    "nombre": "Lavanderías"
+  },
+  {
+    "id": 60,
+    "categoria_id": 6,
+    "nombre": "Cuidado de personas mayores"
+  },
+  {
+    "id": 61,
+    "categoria_id": 6,
+    "nombre": "Guarderías"
+  },
+  {
+    "id": 62,
+    "categoria_id": 4,
+    "nombre": "Estacionamientos"
+  },
+  {
+    "id": 63,
+    "categoria_id": 4,
+    "nombre": "Taller eléctrico automotriz"
+  },
+  {
+    "id": 64,
+    "categoria_id": 4,
+    "nombre": "Servicio de grúas"
+  },
+  {
+    "id": 65,
+    "categoria_id": 7,
+    "nombre": "Salones de fiestas"
+  },
+  {
+    "id": 66,
+    "categoria_id": 7,
+    "nombre": "Cinemas"
+  },
+  {
+    "id": 67,
+    "categoria_id": 7,
+    "nombre": "Parques acuáticos"
+  },
+  {
+    "id": 68,
+    "categoria_id": 19,
+    "nombre": "Hoteles"
+  },
+  {
+    "id": 69,
+    "categoria_id": 19,
+    "nombre": "Hostales"
+  },
+  {
+    "id": 70,
+    "categoria_id": 19,
+    "nombre": "Casas de huéspedes"
+  },
+  {
+    "id": 71,
+    "categoria_id": 17,
+    "nombre": "Baños públicos"
+  },
+  {
+    "id": 72,
+    "categoria_id": 17,
+    "nombre": "Oficinas de gobierno"
+  },
+  {
+    "id": 73,
+    "categoria_id": 17,
+    "nombre": "Correos"
+  },
+  {
+    "id": 74,
+    "categoria_id": 18,
+    "nombre": "Registro civil"
+  },
+  {
+    "id": 75,
+    "categoria_id": 18,
+    "nombre": "Licencias y permisos"
+  },
+  {
+    "id": 76,
+    "categoria_id": 18,
+    "nombre": "Trámites vehiculares"
+  },
+  {
+    "id": 77,
+    "categoria_id": 20,
+    "nombre": "Comida china"
+  },
+  {
+    "id": 78,
+    "categoria_id": 20,
+    "nombre": "Comida japonesa / sushi"
+  },
+  {
+    "id": 79,
+    "categoria_id": 20,
+    "nombre": "Comida italiana"
+  },
+  {
+    "id": 80,
+    "categoria_id": 20,
+    "nombre": "Comida árabe"
+  },
+  {
+    "id": 81,
+    "categoria_id": 20,
+    "nombre": "Comida mexicana gourmet"
+  },
+  {
+    "id": 82,
+    "categoria_id": 20,
+    "nombre": "Mariscos"
+  },
+  {
+    "id": 83,
+    "categoria_id": 21,
+    "nombre": "Servicio de meseros"
+  },
+  {
+    "id": 84,
+    "categoria_id": 21,
+    "nombre": "Banquetes"
+  },
+  {
+    "id": 85,
+    "categoria_id": 21,
+    "nombre": "Renta de salones"
+  },
+  {
+    "id": 86,
+    "categoria_id": 21,
+    "nombre": "Decoración de eventos"
+  },
+  {
+    "id": 87,
+    "categoria_id": 21,
+    "nombre": "Organización de eventos"
+  },
+  {
+    "id": 88,
+    "categoria_id": 22,
+    "nombre": "Molinos y molienda de alimentos"
+  },
+  {
+    "id": 89,
+    "categoria_id": 22,
+    "nombre": "Tienda de instrumentos musicales"
+  },
+  {
+    "id": 90,
+    "categoria_id": 22,
+    "nombre": "Ferretería grande"
+  },
+  {
+    "id": 91,
+    "categoria_id": 22,
+    "nombre": "Tienda de mascotas"
+  },
+  {
+    "id": 92,
+    "categoria_id": 22,
+    "nombre": "Tienda naturista"
+  },
+  {
+    "id": 93,
+    "categoria_id": 23,
+    "nombre": "Clases de idiomas"
+  },
+  {
+    "id": 94,
+    "categoria_id": 23,
+    "nombre": "Clases de música"
+  },
+  {
+    "id": 95,
+    "categoria_id": 23,
+    "nombre": "Clases de computación"
+  },
+  {
+    "id": 96,
+    "categoria_id": 23,
+    "nombre": "Cursos técnicos"
+  },
+  {
+    "id": 97,
+    "categoria_id": 23,
+    "nombre": "Escuelas y universidades"
+  },
+  {
+    "id": 98,
+    "categoria_id": 24,
+    "nombre": "Policía"
+  },
+  {
+    "id": 99,
+    "categoria_id": 24,
+    "nombre": "Bomberos"
+  },
+  {
+    "id": 100,
+    "categoria_id": 24,
+    "nombre": "Protección civil"
+  },
+  {
+    "id": 101,
+    "categoria_id": 24,
+    "nombre": "Cruz Roja"
+  },
+  {
+    "id": 102,
+    "categoria_id": 3,
+    "nombre": "Pediatría"
+  },
+  {
+    "id": 103,
+    "categoria_id": 3,
+    "nombre": "Ginecología"
+  },
+  {
+    "id": 104,
+    "categoria_id": 3,
+    "nombre": "Traumatología"
+  },
+  {
+    "id": 105,
+    "categoria_id": 3,
+    "nombre": "Oftalmología"
+  },
+  {
+    "id": 106,
+    "categoria_id": 3,
+    "nombre": "Otorrinolaringología"
+  },
+  {
+    "id": 107,
+    "categoria_id": 3,
+    "nombre": "Nutriología"
+  },
+  {
+    "id": 108,
+    "categoria_id": 3,
+    "nombre": "Fisioterapia"
+  },
+  {
+    "id": 109,
+    "categoria_id": 3,
+    "nombre": "Terapia ocupacional"
+  },
+  {
+    "id": 110,
+    "categoria_id": 3,
+    "nombre": "Terapia del lenguaje"
+  },
+  {
+    "id": 111,
+    "categoria_id": 3,
+    "nombre": "Radiografías"
+  },
+  {
+    "id": 112,
+    "categoria_id": 3,
+    "nombre": "Tomografías"
+  },
+  {
+    "id": 113,
+    "categoria_id": 3,
+    "nombre": "Resonancias"
+  },
+  {
+    "id": 114,
+    "categoria_id": 3,
+    "nombre": "Acupuntura"
+  },
+  {
+    "id": 115,
+    "categoria_id": 3,
+    "nombre": "Quiropráctico"
+  },
+  {
+    "id": 116,
+    "categoria_id": 3,
+    "nombre": "Homeopatía"
+  },
+  {
+    "id": 117,
+    "nombre": "Clínicas y hospitales"
+  },
+  {
+    "id": 118,
+    "nombre": "Centros de rehabilitación y adicciones"
+  },
+  {
+    "id": 119,
+    "nombre": "Banco de sangre"
+  },
+  {
+    "id": 120,
+    "nombre": "Dentistas especializados"
+  },
+  {
+    "id": 121,
+    "nombre": "Cafeterías / coffee shop"
+  },
+  {
+    "id": 122,
+    "nombre": "Pastelerías / reposterías"
+  },
+  {
+    "id": 123,
+    "nombre": "Panaderías artesanales"
+  },
+  {
+    "id": 124,
+    "nombre": "Jugos y licuados"
+  },
+  {
+    "id": 125,
+    "nombre": "Food trucks"
+  },
+  {
+    "id": 126,
+    "nombre": "Plomería de emergencia"
+  },
+  {
+    "id": 127,
+    "nombre": "Cerrajería 24h"
+  },
+  {
+    "id": 128,
+    "nombre": "Electricista residencial y comercial"
+  },
+  {
+    "id": 129,
+    "nombre": "Vidriería"
+  },
+  {
+    "id": 130,
+    "nombre": "Tapicería"
+  },
+  {
+    "id": 131,
+    "nombre": "Airbnb y renta vacacional"
+  },
+  {
+    "id": 132,
+    "nombre": "Agencias de viajes"
+  },
+  {
+    "id": 133,
+    "nombre": "Renta de cabañas"
+  },
+  {
+    "id": 134,
+    "nombre": "Tours y excursiones"
+  },
+  {
+    "id": 135,
+    "nombre": "Bibliotecas"
+  },
+  {
+    "id": 136,
+    "nombre": "Clubes deportivos"
+  },
+  {
+    "id": 137,
+    "nombre": "Centros culturales"
+  },
+  {
+    "id": 138,
+    "nombre": "Museos interactivos"
+  },
+  {
+    "id": 139,
+    "nombre": "Notarías"
+  },
+  {
+    "id": 140,
+    "nombre": "Registros públicos"
+  },
+  {
+    "id": 141,
+    "nombre": "Oficinas de migración"
+  }
+]

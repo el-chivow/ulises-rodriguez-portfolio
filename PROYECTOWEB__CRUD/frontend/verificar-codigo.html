@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Verificar código</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f0f2f5;
+    }
+    .card {
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    #msg {
+      margin-top: 1rem;
+      font-size: 0.95rem;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card p-4 w-100" style="max-width: 400px;">
+      <h4 class="text-center mb-3">Verifica tu código</h4>
+      <form id="formCodigo">
+        <div class="mb-3">
+          <label for="codigo" class="form-label">Código recibido</label>
+          <input type="text" class="form-control" id="codigo" placeholder="6 dígitos" required maxlength="6" />
+        </div>
+        <button type="submit" class="btn btn-primary w-100">Verificar</button>
+        <div id="msg"></div>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    const form = document.getElementById('formCodigo');
+    const msg = document.getElementById('msg');
+    const correo = sessionStorage.getItem('correo');
+
+    if (!correo) window.location.href = 'solicitar-cambios.html';
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const codigo = document.getElementById('codigo').value.trim();
+
+      if (!/^\d{6}$/.test(codigo)) {
+        msg.textContent = '🔴 El código debe tener 6 dígitos';
+        msg.className = 'text-danger';
+        return;
+      }
+
+      try {
+        const res = await fetch('http://localhost:4000/api/auth/verificar-codigo', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ correo, codigo })
+        });
+
+        const data = await res.json();
+
+        if (res.ok) {
+          msg.textContent = '✅ Código verificado. Redirigiendo...';
+          msg.className = 'text-success';
+          sessionStorage.setItem('codigo', codigo);
+          setTimeout(() => window.location.href = 'cambiar-password.html', 1500);
+        } else {
+          msg.textContent = `🔴 ${data.message || 'Código inválido'}`;
+          msg.className = 'text-danger';
+        }
+      } catch (error) {
+        msg.textContent = '❌ Error de red';
+        msg.className = 'text-danger';
+      }
+    });
+  </script>
+</body>
+</html>
