@@ -1,0 +1,50 @@
+# ======================
+# Entorno y secretos
+# ======================
+.env
+.env.*
+*.key
+*.pem
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ======================
+# Archivos del sistema
+# ======================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# IDE / Editors
+# ======================
+.vscode/
+.idea/
+*.swp
+
+# ======================
+# Opcional: PDFs generados
+# (si NO quieres versionarlos)
+# ======================
+# pdf_por_negocio_desglosado/
